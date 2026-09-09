@@ -1,0 +1,354 @@
+======================================================================
+# EAS State Data File: TEXAS
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 48
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Anderson County|48001
+Andrews County|48003
+Angelina County|48005
+Aransas County|48007
+Archer County|48009
+Armstrong County|48011
+Atascosa County|48013
+Austin County|48015
+Bailey County|48017
+Bandera County|48019
+Bastrop County|48021
+Baylor County|48023
+Bee County|48025
+Bell County|48027
+Bexar County|48029
+Blanco County|48031
+Borden County|48033
+Bosque County|48035
+Bowie County|48037
+Brazoria County|48039
+Brazos County|48041
+Brewster County|48043
+Briscoe County|48045
+Brooks County|48047
+Brown County|48049
+Burleson County|48051
+Burnet County|48053
+Caldwell County|48055
+Calhoun County|48057
+Callahan County|48059
+Cameron County|48061
+Camp County|48063
+Carson County|48065
+Cass County|48067
+Castro County|48069
+Chambers County|48071
+Cherokee County|48073
+Childress County|48075
+Clay County|48077
+Cochran County|48079
+Coke County|48081
+Coleman County|48083
+Collin County|48085
+Collingsworth County|48087
+Colorado County|48089
+Comal County|48091
+Comanche County|48093
+Concho County|48095
+Cooke County|48097
+Coryell County|48099
+Cottle County|48101
+Crane County|48103
+Crockett County|48105
+Crosby County|48107
+Culberson County|48109
+Dallam County|48111
+Dallas County|48113
+Dawson County|48115
+Deaf Smith County|48117
+Delta County|48119
+Denton County|48121
+DeWitt County|48123
+Dickens County|48125
+Dimmit County|48127
+Donley County|48129
+Duval County|48131
+Eastland County|48133
+Ector County|48135
+Edwards County|48137
+Ellis County|48139
+El Paso County|48141
+Erath County|48143
+Falls County|48145
+Fannin County|48147
+Fayette County|48149
+Fisher County|48151
+Floyd County|48153
+Foard County|48155
+Fort Bend County|48157
+Franklin County|48159
+Freestone County|48161
+Frio County|48163
+Gaines County|48165
+Galveston County|48167
+Garza County|48169
+Gillespie County|48171
+Glasscock County|48173
+Goliad County|48175
+Gonzales County|48177
+Gray County|48179
+Grayson County|48181
+Gregg County|48183
+Grimes County|48185
+Guadalupe County|48187
+Hale County|48189
+Hall County|48191
+Hamilton County|48193
+Hansford County|48195
+Hardeman County|48197
+Hardin County|48199
+Harris County|48201
+Harrison County|48203
+Hartley County|48205
+Haskell County|48207
+Hays County|48209
+Hemphill County|48211
+Henderson County|48213
+Hidalgo County|48215
+Hill County|48217
+Hockley County|48219
+Hood County|48221
+Hopkins County|48223
+Houston County|48225
+Howard County|48227
+Hudspeth County|48229
+Hunt County|48231
+Hutchinson County|48233
+Irion County|48235
+Jack County|48237
+Jackson County|48239
+Jasper County|48241
+Jeff Davis County|48243
+Jefferson County|48245
+Jim Hogg County|48247
+Jim Wells County|48249
+Johnson County|48251
+Jones County|48253
+Karnes County|48255
+Kaufman County|48257
+Kendall County|48259
+Kenedy County|48261
+Kent County|48263
+Kerr County|48265
+Kimble County|48267
+King County|48269
+Kinney County|48271
+Kleberg County|48273
+Knox County|48275
+Lamar County|48277
+Lamb County|48279
+Lampasas County|48281
+La Salle County|48283
+Lavaca County|48285
+Lee County|48287
+Leon County|48289
+Liberty County|48291
+Limestone County|48293
+Lipscomb County|48295
+Live Oak County|48297
+Llano County|48299
+Loving County|48301
+Lubbock County|48303
+Lynn County|48305
+McCulloch County|48307
+McLennan County|48309
+McMullen County|48311
+Madison County|48313
+Marion County|48315
+Martin County|48317
+Mason County|48319
+Matagorda County|48321
+Maverick County|48323
+Medina County|48325
+Menard County|48327
+Midland County|48329
+Milam County|48331
+Mills County|48333
+Mitchell County|48335
+Montague County|48337
+Montgomery County|48339
+Moore County|48341
+Morris County|48343
+Motley County|48345
+Nacogdoches County|48347
+Navarro County|48349
+Newton County|48351
+Nolan County|48353
+Nueces County|48355
+Ochiltree County|48357
+Oldham County|48359
+Orange County|48361
+Palo Pinto County|48363
+Panola County|48365
+Parker County|48367
+Parmer County|48369
+Pecos County|48371
+Polk County|48373
+Potter County|48375
+Presidio County|48377
+Rains County|48379
+Randall County|48381
+Reagan County|48383
+Real County|48385
+Red River County|48387
+Reeves County|48389
+Refugio County|48391
+Roberts County|48393
+Robertson County|48395
+Rockwall County|48397
+Runnels County|48399
+Rusk County|48401
+Sabine County|48403
+San Augustine County|48405
+San Jacinto County|48407
+San Patricio County|48409
+San Saba County|48411
+Schleicher County|48413
+Scurry County|48415
+Shackelford County|48417
+Shelby County|48419
+Sherman County|48421
+Smith County|48423
+Somervell County|48425
+Starr County|48427
+Stephens County|48429
+Sterling County|48431
+Stonewall County|48433
+Sutton County|48435
+Swisher County|48437
+Tarrant County|48439
+Taylor County|48441
+Terrell County|48443
+Terry County|48445
+Throckmorton County|48447
+Titus County|48449
+Tom Green County|48451
+Travis County|48453
+Trinity County|48455
+Tyler County|48457
+Upshur County|48459
+Upton County|48461
+Uvalde County|48463
+Val Verde County|48465
+Van Zandt County|48467
+Victoria County|48469
+Walker County|48471
+Waller County|48473
+Ward County|48475
+Washington County|48477
+Webb County|48479
+Wharton County|48481
+Wheeler County|48483
+Wichita County|48485
+Wilbarger County|48487
+Willacy County|48489
+Williamson County|48491
+Wilson County|48493
+Winkler County|48495
+Wise County|48497
+Wood County|48499
+Yoakum County|48501
+Young County|48503
+Zapata County|48505
+Zavala County|48507
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC55|162.550|Fort Worth
+KEC56|162.400|Dallas
+KGG68|162.400|Tomball
+KHA99|162.425|Muenster
+KHB33|162.400|Pharr
+KHB40|162.550|Galveston
+KHB41|162.550|Rockport
+KJY69|162.550|Alpine
+KJY78|162.450|New Taiton
+KJY88|162.475|Perryton
+KJY97|162.525|Childress
+KWN31|162.500|Cumby
+KWN32|162.425|Gilmer
+KWN33|162.450|Stephenville
+KWN34|162.450|Palestine
+KWN37|162.425|Sweetwater
+KWN51|162.425|Uvalde
+KXI54|162.425|Burkeville
+KXI55|162.500|Onalaska
+KXI56|162.525|Gonzales
+KXI87|162.525|Corsicana
+KXI88|162.400|Stinnett
+WNG523|162.500|Dilley
+WNG561|162.450|Plainview
+WNG562|162.425|Seminole
+WNG600|162.525|D'Hanis
+WNG601|162.425|Rio Grande City
+WNG609|162.525|Riviera
+WNG636|162.500|Cisco
+WNG641|162.475|Seguin
+WNG649|162.525|Milano
+WNG650|162.525|Center
+WNG651|162.525|Mineral Wells
+WNG652|162.550|El Paso Spanish
+WNG653|162.525|Marietta
+WNG657|162.500|Summerfield
+WNG692|162.550|Carrizo Springs
+WNG695|162.450|Pecos
+WNG696|162.450|Three Rivers
+WNG713|162.450|Miami
+WNG722|162.425|Throckmorton
+WWF90|162.450|Kerrville
+WWF91|162.425|Llano
+WWG34|162.550|Brownsville
+WWG40|162.425|Bay City
+WWG55|162.500|La Grange
+WWG93|162.475|Junction
+WWG94|162.525|Richland Springs
+WWQ50|162.425|Dalhart
+WWQ51|162.525|Stratford
+WXJ49|162.550|Texarkana
+WXJ98|162.400|Del Rio
+WXK20|162.550|Paris
+WXK22|162.475|Sherman
+WXK23|162.550|Lufkin
+WXK25|162.475|El Paso
+WXK26|162.475|Laredo
+WXK27|162.400|Austin
+WXK28|162.475|Beaumont
+WXK29|162.400|Abilene
+WXK30|162.550|Bryan
+WXK31|162.475|Wichita Falls
+WXK32|162.400|Midland/Odessa
+WXK33|162.550|San Angelo
+WXK34|162.400|Victoria
+WXK35|162.475|Waco
+WXK36|162.475|Tyler
+WXK37|162.475|Big Spring
+WXK38|162.550|Amarillo
+WXK67|162.550|San Antonio
+WXK79|162.400|Lubbock
+WXL26|162.475|Port O'Connor
+WXL44|162.500|Ozona
+WXN89|162.475|Coleman
+WZ2503|162.525|Guadalupe Mt Nat'l. Park
+WZ2507|162.500|Dickens
+WZ2541|162.475|Pharr Spanish
+WZ2542|162.450|Santa Maria Spanish
+WZ2572|162.475|Richmond
+
+======================================================================

@@ -1,0 +1,67 @@
+======================================================================
+# EAS State Data File: UTAH
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 49
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Beaver County|49001
+Box Elder County|49003
+Cache County|49005
+Carbon County|49007
+Daggett County|49009
+Davis County|49011
+Duchesne County|49013
+Emery County|49015
+Garfield County|49017
+Grand County|49019
+Iron County|49021
+Juab County|49023
+Kane County|49025
+Millard County|49027
+Morgan County|49029
+Piute County|49031
+Rich County|49033
+Salt Lake County|49035
+San Juan County|49037
+Sanpete County|49039
+Sevier County|49041
+Summit County|49043
+Tooele County|49045
+Uintah County|49047
+Utah County|49049
+Wasatch County|49051
+Washington County|49053
+Wayne County|49055
+Weber County|49057
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC78|162.550|Salt Lake City
+KJY60|162.475|Coalville/ Park City
+KJY61|162.425|Escalante
+KJY79|162.550|Tabiona
+KXI30|162.475|Wendover
+WNG556|162.475|Moab
+WNG594|162.425|Manti
+WNG669|162.500|Castle Dale
+WNG687|162.450|Monticello
+WWF46|162.450|Tooele (South Mountain)
+WWF47|162.525|Tooele (Vernon Hills)
+WWF51|162.475|St. George
+WXL63|162.500|Bear Lake
+WXM22|162.400|Logan
+WXM23|162.400|Vernal
+WXM24|162.400|Milford/Cedar City
+WXM89|162.550|Lake Powell
+
+======================================================================

@@ -1,0 +1,116 @@
+======================================================================
+# EAS State Data File: MISSISSIPPI
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 28
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adams County|28001
+Alcorn County|28003
+Amite County|28005
+Attala County|28007
+Benton County|28009
+Bolivar County|28011
+Calhoun County|28013
+Carroll County|28015
+Chickasaw County|28017
+Choctaw County|28019
+Claiborne County|28021
+Clarke County|28023
+Clay County|28025
+Coahoma County|28027
+Copiah County|28029
+Covington County|28031
+DeSoto County|28033
+Forrest County|28035
+Franklin County|28037
+George County|28039
+Greene County|28041
+Grenada County|28043
+Hancock County|28045
+Harrison County|28047
+Hinds County|28049
+Holmes County|28051
+Humphreys County|28053
+Issaquena County|28055
+Itawamba County|28057
+Jackson County|28059
+Jasper County|28061
+Jefferson County|28063
+Jefferson Davis County|28065
+Jones County|28067
+Kemper County|28069
+Lafayette County|28071
+Lamar County|28073
+Lauderdale County|28075
+Lawrence County|28077
+Leake County|28079
+Lee County|28081
+Leflore County|28083
+Lincoln County|28085
+Lowndes County|28087
+Madison County|28089
+Marion County|28091
+Marshall County|28093
+Monroe County|28095
+Montgomery County|28097
+Neshoba County|28099
+Newton County|28101
+Noxubee County|28103
+Oktibbeha County|28105
+Panola County|28107
+Pearl River County|28109
+Perry County|28111
+Pike County|28113
+Pontotoc County|28115
+Prentiss County|28117
+Quitman County|28119
+Rankin County|28121
+Scott County|28123
+Sharkey County|28125
+Simpson County|28127
+Smith County|28129
+Stone County|28131
+Sunflower County|28133
+Tallahatchie County|28135
+Tate County|28137
+Tippah County|28139
+Tishomingo County|28141
+Tunica County|28143
+Union County|28145
+Walthall County|28147
+Warren County|28149
+Washington County|28151
+Wayne County|28153
+Webster County|28155
+Wilkinson County|28157
+Winston County|28159
+Yalobusha County|28161
+Yazoo County|28163
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KIH21|162.400|Gulfport
+KIH38|162.400|Jackson
+KIH47|162.475|Hattiesburg
+KIH48|162.550|Bude
+KIH49|162.550|Meridian
+KIH50|162.425|Inverness
+KIH51|162.475|Ackerman
+KIH52|162.550|Oxford
+KIH53|162.400|Booneville
+KJY83|162.500|Carthage
+KUT404|162.450|Aberdeen
+WNG640|162.425|Leakesville
+WZ2546|162.525|Magee
+
+======================================================================

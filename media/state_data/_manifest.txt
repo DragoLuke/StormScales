@@ -1,0 +1,67 @@
+======================================================================
+# EAS State Data Manifest
+# Generated: 2026-07-26 01:45:36 MST
+# Source: FCC FIPS County Codes + NOAA NWR Stations
+======================================================================
+
+STATE                        COUNTIES     TRANSMITTERS
+----------------------------------------------------------------------
+Alabama (AL)                 67           21          
+Alaska (AK)                  28           52          
+Arizona (AZ)                 15           13          
+Arkansas (AR)                75           19          
+California (CA)              58           35          
+Colorado (CO)                63           29          
+Connecticut (CT)             8            4           
+Delaware (DE)                3            2           
+Florida (FL)                 67           32          
+Georgia (GA)                 159          28          
+Hawaii (HI)                  5            8           
+Idaho (ID)                   44           14          
+Illinois (IL)                102          29          
+Indiana (IN)                 92           19          
+Iowa (IA)                    98           27          
+Kansas (KS)                  105          23          
+Kentucky (KY)                120          41          
+Louisiana (LA)               64           11          
+Maine (ME)                   16           11          
+Maryland (MD)                24           5           
+Massachusetts (MA)           14           6           
+Michigan (MI)                83           28          
+Minnesota (MN)               87           37          
+Mississippi (MS)             82           13          
+Missouri (MO)                115          35          
+Montana (MT)                 57           31          
+Nebraska (NE)                93           25          
+Nevada (NV)                  17           14          
+New Hampshire (NH)           10           7           
+New Jersey (NJ)              21           3           
+New Mexico (NM)              33           12          
+New York (NY)                62           24          
+North Carolina (NC)          100          21          
+North Dakota (ND)            53           18          
+Ohio (OH)                    88           18          
+Oklahoma (OK)                77           20          
+Oregon (OR)                  36           25          
+Pennsylvania (PA)            67           21          
+Rhode Island (RI)            5            1           
+South Carolina (SC)          46           16          
+South Dakota (SD)            66           18          
+Tennessee (TN)               95           21          
+Texas (TX)                   254          79          
+Utah (UT)                    29           17          
+Vermont (VT)                 14           4           
+Virginia (VA)                136          13          
+Washington (WA)              39           17          
+West Virginia (WV)           55           12          
+Wisconsin (WI)               72           28          
+Wyoming (WY)                 23           21          
+District of Columbia (DC)    1            0           
+----------------------------------------------------------------------
+
+SUMMARY
+  State files:        51
+  Total counties:     3143
+  Transmitters:       1028
+
+======================================================================

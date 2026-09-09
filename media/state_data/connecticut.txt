@@ -1,0 +1,33 @@
+======================================================================
+# EAS State Data File: CONNECTICUT
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 09
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Fairfield County|09001
+Hartford County|09003
+Litchfield County|09005
+Middlesex County|09007
+New Haven County|09009
+New London County|09011
+Tolland County|09013
+Windham County|09015
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KHB47|162.550|New London
+WWH33|162.500|Cornwall
+WXJ41|162.475|Hartford
+WXJ42|162.400|Meriden
+
+======================================================================

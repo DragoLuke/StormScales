@@ -1,0 +1,148 @@
+===============================================================================
+                    STORMSCALES — ISOLATED LAB TEST GUIDE
+                          DragonOS Two-PC Test Setup
+===============================================================================
+
+DOCUMENT INFO
+-------------------------------------------------------------------------------
+Purpose:      Testing eas_monitor.sh via HackRF ↔ RTL-SDR closed-loop chain
+Author:       DragoLuke
+Context:      Development/debugging
+
+===============================================================================
+                              TABLE OF CONTENTS
+===============================================================================
+1. System Overview .................................... [Section 1]
+2. Software Versions & Requirements ................... [Section 2]
+4. Transmission Commands .............................. [Section 3]
+5. Receive/Decode Commands ............................ [Section 4]
+6. Troubleshooting Guide .............................. [Section 5]
+
+===============================================================================
+                         1. SYSTEM OVERVIEW
+===============================================================================
+
+┌──────────────────────────────────────────────────────────────────────────┐
+│                          CLOSED-LOOP TEST FIXTURE                        │
+├──────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│   TX PC                     2x Fixed Attenuation                 RX PC   │
+│  ┌────────────┐  ┌─────────┐   ┌─────────┐   ┌────────────┐  ┌─────────┐ │
+│  │  DragonOS  │─►│ 30dB    │──►│ 30dB    │──►│ RG316 Coax │─►│ DragonOS│ │
+│  │            │  │ Atten.  │   │ Atten.  │   │            │  │         │ │
+│  │   HackRF   │  └─────────┘   └─────────┘   └────────────┘  │ RTL-SDR │ │
+│  │  One/Pro   │                                              │         │ │
+│  │            │                                              │         │ │
+│  │    (TX)    │                                              │  (RX)   │ │
+│  └────────────┘                                              └─────────┘ │
+│                                                                          │
+│                   60 dB Total Physical Attenuation                       │
+│                                                                          │
+└──────────────────────────────────────────────────────────────────────────┘
+
+===============================================================================
+                   2. SOFTWARE VERSIONS & REQUIREMENTS
+===============================================================================
+
+-------------------------------------------------------------------------------------
+| Component       | Version                | Notes                                  |
+|-----------------|------------------------|----------------------------------------|
+| DragonOS        | 2026-08-21 or later    | Linux distro does not really matter    |
+| Multimon-ng     | 1.3.0 or later         | 1.3.0/1.3.1/1.4.1 tested and confirmed |
+-------------------------------------------------------------------------------------
+
+Required Tools:
+  • hackrf_transfer     (TX)
+  • rtl_fm              (RX)
+  • multimon-ng         (SAME/EAS decoding)
+  • audio backend       (optional audio playback)
+
+===============================================================================
+                            3. TRANSMISSION COMMANDS
+===============================================================================
+
+TX PC - Generate EAS Alert via HackRF
+-------------------------------------------------------------------------------
+
+# Basic transmission command:
+hackrf_transfer -t DMO_National.iq -f 162550000 -s 2000000 -x 25 -a 0
+
+-------------------------------------------------------------------------
+| Flag     | Value       | Meaning                                      |
+|----------|-------------|----------------------------------------------|
+| -t       | .iq file    | IQ payload from eas_generator.py             |
+| -f       | 162550000   | Frequency = 162.550 MHz (NOAA Weather Band)  |
+| -s       | 2000000     | Sample rate = 2 MSPS                         |
+| -x       | 25          | VGA gain = 25 dB (range: 0-47)               |
+| -a       | 0           | Amp = OFF                                    |
+-------------------------------------------------------------------------
+
+TUNING NOTES
+-------------------------------------------------------------------------------
+• Weak signal → Increase -x (max 47)
+• Distortion → Decrease -x or verify 60 dB attenuation
+• Frequency mismatch → Ensure -f matches receiver exactly
+
+===============================================================================
+                            4. RECEIVE/DECODE COMMANDS
+===============================================================================
+
+RX PC - Audio Playback
+-------------------------------------------------------------------------------
+
+# Listen to demodulated EAS alert audio:
+rtl_fm -f 162.55M -M fm -s 24K -g 40 -l 20 -E deemp -F 0 -p 64 | aplay -r 24000 -f s16_le -c 1 -t raw
+
+-------------------------------------------------------------------------
+| Flag     | Value       | Meaning                                      |
+|----------|-------------|----------------------------------------------|
+| -f       | 162.55M     | Center frequency (matches TX)                |
+| -M       | fm          | FM modulation mode                           |
+| -s       | 24K         | Sample rate = 24 kHz                         |
+| -g       | 40          | RTL gain = 40 dB (starting point)            |
+| -l       | 10          | LNA gain = 10 dB                             |
+| -E       | deemp       | De-emphasis filter enabled                   |
+| -p       | 64          | PPM correction (run 'rtl_test -p' to calib.) |
+-------------------------------------------------------------------------
+
+RX PC - Automated Decoding
+-------------------------------------------------------------------------------
+
+# Decode SAME headers and display:
+rtl_fm -f 162.55M -M fm -s 22050 -g 40 -l 20 -E deemp -F 0 -p 64 2>/dev/null | multimon-ng -t raw -a EAS - 2>&1 | grep -E "(EAS:|Decoder)"
+
+  CRITICAL: multimon-ng EAS decoder REQUIRES 22050 Hz sample rate
+    • Audio playback can use 24 kHz
+    • Decode path MUST use 22050 Hz
+    • Mismatch causes intermittent decode failures
+
+===============================================================================
+                            5. TROUBLESHOOTING GUIDE
+===============================================================================
+
+SYMPTOM → CAUSE → SOLUTION
+-------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+| Symptom                           | Likely Cause              | Resolution                       |
+|-----------------------------------|---------------------------|----------------------------------|
+| multimon-ng shows nothing         | Insufficient signal       | Verify freq; try diffrent config |
+| RTL-SDR not detected              | USB/power issue           | Try different USB port           |
+| EAS decode fails intermittently   | Sample rate mismatch      | Use 22050 Hz in decode path      |
+| Audio too quiet/distorted         | Gain settings wrong       | Adjust -g value (start at 40)    |
+| multimon-ng crashes/hangs         | Version incompatibility   | Use 1.3.0 or 1.3.1               |
+| Garbled signal at correct freq    | Crystal drift (PPM error) | Add rtl_fm -p correction         |
+| Intermittent signal loss          | Damaged cable/connector   | Swap cable; check SMA torque     |
+----------------------------------------------------------------------------------------------------
+
+DIAGNOSTIC CHECKLIST
+-------------------------------------------------------------------------------
+
+[ ] 1. Verify HackRF: hackrf_info
+[ ] 2. Verify RTL-SDR: lsusb | grep RTL
+[ ] 3. Confirm 60 dB attenuation installed
+[ ] 4. Match TX/RX frequencies (162.550 MHz)
+[ ] 5. Use 22050 Hz for multimon-ng compatibility
+[ ] 6. Check cable integrity (RG316, SMA)
+[ ] 7. Put HackRF on dedicated USB bus if possible
+[ ] 8. Confirm multimon-ng version (1.3.0+)

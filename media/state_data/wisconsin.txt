@@ -1,0 +1,121 @@
+======================================================================
+# EAS State Data File: WISCONSIN
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 55
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adams County|55001
+Ashland County|55003
+Barron County|55005
+Bayfield County|55007
+Brown County|55009
+Buffalo County|55011
+Burnett County|55013
+Calumet County|55015
+Chippewa County|55017
+Clark County|55019
+Columbia County|55021
+Crawford County|55023
+Dane County|55025
+Dodge County|55027
+Door County|55029
+Douglas County|55031
+Dunn County|55033
+Eau Claire County|55035
+Florence County|55037
+Fond du Lac County|55039
+Forest County|55041
+Grant County|55043
+Green County|55045
+Green Lake County|55047
+Iowa County|55049
+Iron County|55051
+Jackson County|55053
+Jefferson County|55055
+Juneau County|55057
+Kenosha County|55059
+Kewaunee County|55061
+La Crosse County|55063
+Lafayette County|55065
+Langlade County|55067
+Lincoln County|55069
+Manitowoc County|55071
+Marathon County|55073
+Marinette County|55075
+Marquette County|55077
+Menominee County|55078
+Milwaukee County|55079
+Monroe County|55081
+Oconto County|55083
+Oneida County|55085
+Outagamie County|55087
+Ozaukee County|55089
+Pepin County|55091
+Pierce County|55093
+Polk County|55095
+Portage County|55097
+Price County|55099
+Racine County|55101
+Richland County|55103
+Rock County|55105
+Rusk County|55107
+St. Croix County|55109
+Sauk County|55111
+Sawyer County|55113
+Shawano County|55115
+Sheboygan County|55117
+Taylor County|55119
+Trempealeau County|55121
+Vernon County|55123
+Vilas County|55125
+Walworth County|55127
+Washburn County|55129
+Washington County|55131
+Waukesha County|55133
+Waupaca County|55135
+Waushara County|55137
+Winnebago County|55139
+Wood County|55141
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KC2XBZ|162.500|Gresham
+KE2XKP|162.525|Tomah
+KEC60|162.400|Milwaukee
+KGG95|162.425|Winona
+KHA47|162.450|Baraboo
+KIG65|162.550|Green Bay
+KZZ76|162.450|Racine
+KZZ77|162.425|Withee
+KZZ78|162.525|Ashland
+KZZ79|162.475|Spooner
+WNG552|162.525|New London
+WNG553|162.400|Wausaukee
+WNG564|162.500|Black River Falls
+WNG565|162.400|Rhinelander
+WNG577|162.550|Ladysmith
+WWF40|162.400|Coloma
+WWG86|162.500|Prairie Du Chien
+WWG87|162.500|Fond Du Lac
+WWG88|162.450|Crandon
+WWG89|162.475|Richland Center
+WWG90|162.425|Janesville
+WWG91|162.525|Sheboygan
+WXJ87|162.550|Madison
+WXJ88|162.400|Menomonie
+WXJ89|162.475|Wausau
+WXL64|162.400|Dubuque
+WXM91|162.500|Park Falls
+WXN69|162.425|Sister Bay
+
+======================================================================

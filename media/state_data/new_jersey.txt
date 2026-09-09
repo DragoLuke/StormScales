@@ -1,0 +1,45 @@
+======================================================================
+# EAS State Data File: NEW JERSEY
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 34
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Atlantic County|34001
+Bergen County|34003
+Burlington County|34005
+Camden County|34007
+Cape May County|34009
+Cumberland County|34011
+Essex County|34013
+Gloucester County|34015
+Hudson County|34017
+Hunterdon County|34019
+Mercer County|34021
+Middlesex County|34023
+Monmouth County|34025
+Morris County|34027
+Ocean County|34029
+Passaic County|34031
+Salem County|34033
+Somerset County|34035
+Sussex County|34037
+Union County|34039
+Warren County|34041
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KHB38|162.400|Atlantic City
+KZZ31|162.500|Hardyston
+WXM60|162.450|Southard
+
+======================================================================

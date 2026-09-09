@@ -1,0 +1,88 @@
+======================================================================
+# EAS State Data File: WEST VIRGINIA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 54
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Barbour County|54001
+Berkeley County|54003
+Boone County|54005
+Braxton County|54007
+Brooke County|54009
+Cabell County|54011
+Calhoun County|54013
+Clay County|54015
+Doddridge County|54017
+Fayette County|54019
+Gilmer County|54021
+Grant County|54023
+Greenbrier County|54025
+Hampshire County|54027
+Hancock County|54029
+Hardy County|54031
+Harrison County|54033
+Jackson County|54035
+Jefferson County|54037
+Kanawha County|54039
+Lewis County|54041
+Lincoln County|54043
+Logan County|54045
+McDowell County|54047
+Marion County|54049
+Marshall County|54051
+Mason County|54053
+Mercer County|54055
+Mineral County|54057
+Mingo County|54059
+Monongalia County|54061
+Monroe County|54063
+Morgan County|54065
+Nicholas County|54067
+Ohio County|54069
+Pendleton County|54071
+Pleasants County|54073
+Pocahontas County|54075
+Preston County|54077
+Putnam County|54079
+Raleigh County|54081
+Randolph County|54083
+Ritchie County|54085
+Roane County|54087
+Summers County|54089
+Taylor County|54091
+Tucker County|54093
+Tyler County|54095
+Upshur County|54097
+Wayne County|54099
+Webster County|54101
+Wetzel County|54103
+Wirt County|54105
+Wood County|54107
+Wyoming County|54109
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KWN35|162.475|Morgantown
+KWN36|162.500|Greggs Knob
+KXI73|162.450|Backbone Mountain
+KXI74|162.525|Monterville
+WXJ84|162.400|Charleston
+WXJ85|162.550|Clarksburg
+WXM70|162.500|Garfield
+WXM71|162.550|Beckley
+WXM72|162.425|Hinton
+WXM73|162.400|Moorefield
+WXM74|162.450|Sutton
+WXM75|162.475|Gilbert
+
+======================================================================

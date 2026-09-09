@@ -1,0 +1,109 @@
+======================================================================
+# EAS State Data File: MONTANA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 30
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Beaverhead County|30001
+Big Horn County|30003
+Blaine County|30005
+Broadwater County|30007
+Carbon County|30009
+Carter County|30011
+Cascade County|30013
+Chouteau County|30015
+Custer County|30017
+Daniels County|30019
+Dawson County|30021
+Deer Lodge County|30023
+Fallon County|30025
+Fergus County|30027
+Flathead County|30029
+Gallatin County|30031
+Garfield County|30033
+Glacier County|30035
+Golden Valley County|30037
+Granite County|30039
+Hill County|30041
+Jefferson County|30043
+Judith Basin County|30045
+Lake County|30047
+Lewis and Clark County|30049
+Liberty County|30051
+Lincoln County|30053
+McCone County|30055
+Madison County|30057
+Meagher County|30059
+Mineral County|30061
+Missoula County|30063
+Musselshell County|30065
+Park County|30067
+Petroleum County|30069
+Phillips County|30071
+Pondera County|30073
+Powder River County|30075
+Powell County|30077
+Prairie County|30079
+Ravalli County|30081
+Richland County|30083
+Roosevelt County|30085
+Rosebud County|30087
+Sanders County|30089
+Sheridan County|30091
+Silver Bow County|30093
+Stillwater County|30095
+Sweet Grass County|30097
+Teton County|30099
+Toole County|30101
+Treasure County|30103
+Valley County|30105
+Wheatland County|30107
+Wibaux County|30109
+Yellowstone County|30111
+Yellowstone National Park|30113
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KAD95|162.450|Ryegate
+KGG94|162.425|Poplar
+KGG97|162.500|Bozeman
+KHB53|162.500|Jordan
+KHC26|162.550|Circle
+KPS507|162.525|Glentana
+KZZ54|162.500|Lewistown
+WNG533|162.525|Browning
+WNG567|162.425|Broadus
+WNG638|162.475|Dillon
+WNG670|162.400|Winnett
+WNG682|162.525|Livingston
+WNG719|162.525|Forsyth
+WNG724|162.450|Hardin
+WWF50|162.475|Plentywood
+WWF92|162.450|Scobey
+WWF93|162.475|Glendive
+WWG84|162.500|Belgian Hill
+WWG85|162.475|Malta
+WXJ43|162.550|Great Falls
+WXK57|162.550|Baker
+WXK66|162.400|Helena
+WXL25|162.400|Missoula
+WXL27|162.550|Billings
+WXL32|162.400|Glasgow
+WXL53|162.400|Havre
+WXL54|162.400|Miles City
+WXL79|162.550|Butte
+WXL82|162.550|Kalispell
+WZ2528|162.500|Wibaux
+WZ2533|162.475|Ekalaka
+
+======================================================================

@@ -1,0 +1,50 @@
+======================================================================
+# EAS State Data File: MARYLAND
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 24
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Allegany County|24001
+Anne Arundel County|24003
+Baltimore County|24005
+Calvert County|24009
+Caroline County|24011
+Carroll County|24013
+Cecil County|24015
+Charles County|24017
+Dorchester County|24019
+Frederick County|24021
+Garrett County|24023
+Harford County|24025
+Howard County|24027
+Kent County|24029
+Montgomery County|24031
+Prince George|24033
+Queen Anne|24035
+St. Mary|24037
+Somerset County|24039
+Talbot County|24041
+Washington County|24043
+Wicomico County|24045
+Worcester County|24047
+Baltimore city|24510
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC83|162.400|Baltimore
+WNG736|162.450|Washington DC
+WXK97|162.500|Sudlersville
+WXM42|162.475|Hagerstown
+WXM43|162.425|Frostburg
+
+======================================================================

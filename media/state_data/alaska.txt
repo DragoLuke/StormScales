@@ -1,0 +1,101 @@
+======================================================================
+# EAS State Data File: ALASKA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 02
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Aleutians East Borough|02013
+Aleutians West Census Area|02016
+Anchorage Borough|02020
+Bethel Census Area|02050
+Bristol Bay Borough|02060
+Denali Borough (created after 1990)|02068
+Dillingham Census Area|02070
+Fairbanks North Star Borough|02090
+Haines Borough|02100
+Juneau Borough|02110
+Kenai Peninsula Borough|02122
+Ketchikan Gateway Borough|02130
+Kodiak Island Borough|02150
+Lake and Peninsula Borough|02164
+Matanuska-Susitna Borough|02170
+Nome Census Area|02180
+North Slope Borough|02185
+Northwest Arctic Borough|02188
+Prince of Wales-Outer Ketchikan Census Area|02201
+Sitka Borough|02220
+Skagway-Yakutat-Angoon Census Area (1990 Census Area)|02231
+Skagway-Hoonah-Angoon Census Area (created after 1990)|02232
+Southeast Fairbanks Census Area|02240
+Valdez-Cordova Census Area|02261
+Wade Hampton Census Area|02270
+Wrangell-Petersburg Census Area|02280
+Yakutat Borough (created after 1990)|02282
+Yukon-Koyukuk Census Area|02290
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KAD96|162.500|Manleyville
+KEC43|162.550|Anchorage
+KEC81|162.550|Seward
+KJY73|162.525|Saint Paul Island
+KJY87|162.425|Cold Bay
+KPS503|162.550|Glennallen
+KPS504|162.400|Nenana
+KWN30|162.550|Kotzebue
+KXI29|162.475|Whittier
+KXI80|162.475|Craig
+KZZ53|162.550|Utqiagvik
+KZZ86|162.425|Althorp Peak
+KZZ87|162.450|Mt. Robert Barron
+KZZ88|162.425|Cape Fanshaw
+KZZ89|162.425|Sukkwan Island
+KZZ90|162.425|Raspberry Island
+KZZ91|162.450|Zarembo Island
+KZZ92|162.450|Duke Island
+KZZ93|162.450|Point Pigot
+KZZ95|162.525|Mt. McArthur
+KZZ96|162.525|Gravina Island
+KZZ97|162.550|Ninilchik
+KZZ98|162.400|Wasilla
+WNG525|162.425|Tuklung Mtn.
+WNG526|162.425|Rugged Island
+WNG527|162.425|Potato Point
+WNG528|162.450|Bede Mountain
+WNG529|162.500|Cape Gull
+WNG530|162.500|East Point
+WNG531|162.525|Pillar Mtn.
+WNG532|162.525|Cape Hinchinbrook
+WNG675|162.550|Bethel
+WNG681|162.500|Dillingham
+WNG714|162.550|Sand Point
+WNG716|162.500|Marmot Island
+WNG718|162.450|Sitkinak Dome
+WWG39|162.475|Soldotna
+WXJ24|162.400|Homer
+WXJ25|162.550|Juneau
+WXJ26|162.550|Ketchikan
+WXJ62|162.550|Nome
+WXJ63|162.550|Valdez
+WXJ78|162.550|Kodiak
+WXJ79|162.400|Cordova
+WXJ80|162.550|Sitka
+WXJ81|162.550|Fairbanks
+WXJ83|162.400|Wrangell
+WXK69|162.400|Yakutat
+WXK89|162.550|Unalaska
+WXM97|162.400|Haines
+WZ2555|162.525|Duffield Peninsula
+WZ2556|162.525|Middle Cape
+
+======================================================================

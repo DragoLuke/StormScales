@@ -1,0 +1,149 @@
+======================================================================
+# EAS State Data File: KANSAS
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 20
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Allen County|20001
+Anderson County|20003
+Atchison County|20005
+Barber County|20007
+Barton County|20009
+Bourbon County|20011
+Brown County|20013
+Butler County|20015
+Chase County|20017
+Chautauqua County|20019
+Cherokee County|20021
+Cheyenne County|20023
+Clark County|20025
+Clay County|20027
+Cloud County|20029
+Coffey County|20031
+Comanche County|20033
+Cowley County|20035
+Crawford County|20037
+Decatur County|20039
+Dickinson County|20041
+Doniphan County|20043
+Douglas County|20045
+Edwards County|20047
+Elk County|20049
+Ellis County|20051
+Ellsworth County|20053
+Finney County|20055
+Ford County|20057
+Franklin County|20059
+Geary County|20061
+Gove County|20063
+Graham County|20065
+Grant County|20067
+Gray County|20069
+Greeley County|20071
+Greenwood County|20073
+Hamilton County|20075
+Harper County|20077
+Harvey County|20079
+Haskell County|20081
+Hodgeman County|20083
+Jackson County|20085
+Jefferson County|20087
+Jewell County|20089
+Johnson County|20091
+Kearny County|20093
+Kingman County|20095
+Kiowa County|20097
+Labette County|20099
+Lane County|20101
+Leavenworth County|20103
+Lincoln County|20105
+Linn County|20107
+Logan County|20109
+Lyon County|20111
+McPherson County|20113
+Marion County|20115
+Marshall County|20117
+Meade County|20119
+Miami County|20121
+Mitchell County|20123
+Montgomery County|20125
+Morris County|20127
+Morton County|20129
+Nemaha County|20131
+Neosho County|20133
+Ness County|20135
+Norton County|20137
+Osage County|20139
+Osborne County|20141
+Ottawa County|20143
+Pawnee County|20145
+Phillips County|20147
+Pottawatomie County|20149
+Pratt County|20151
+Rawlins County|20153
+Reno County|20155
+Republic County|20157
+Rice County|20159
+Riley County|20161
+Rooks County|20163
+Rush County|20165
+Russell County|20167
+Saline County|20169
+Scott County|20171
+Sedgwick County|20173
+Seward County|20175
+Shawnee County|20177
+Sheridan County|20179
+Sherman County|20181
+Smith County|20183
+Stafford County|20185
+Stanton County|20187
+Stevens County|20189
+Sumner County|20191
+Thomas County|20193
+Trego County|20195
+Wabaunsee County|20197
+Wallace County|20199
+Washington County|20201
+Wichita County|20203
+Wilson County|20205
+Woodson County|20207
+Wyandotte County|20209
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC59|162.550|Wichita
+KEC77|162.400|Saint Joseph
+KGG98|162.425|Halls Summit
+KPS511|162.500|Great Bend
+KWN59|162.500|Kirwin
+KZZ67|162.425|Blue Rapids
+WNG534|162.525|Belvidere
+WNG535|162.525|Dighton
+WNG555|162.425|Meade
+WWF87|162.425|Lenora
+WWG22|162.550|Tribune
+WWH22|162.500|Beaumont
+WXK91|162.475|Topeka
+WXK92|162.400|Ellsworth
+WXK93|162.475|Dodge City
+WXK94|162.550|Concordia
+WXK95|162.400|Chanute
+WXK96|162.400|Gem
+WXL71|162.525|Abilene
+WXM35|162.450|Hays
+WXN81|162.450|Ulysses
+WZ2511|162.400|Sharon
+WZ2512|162.525|Parker
+
+======================================================================

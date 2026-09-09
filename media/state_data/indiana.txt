@@ -1,0 +1,132 @@
+======================================================================
+# EAS State Data File: INDIANA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 18
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adams County|18001
+Allen County|18003
+Bartholomew County|18005
+Benton County|18007
+Blackford County|18009
+Boone County|18011
+Brown County|18013
+Carroll County|18015
+Cass County|18017
+Clark County|18019
+Clay County|18021
+Clinton County|18023
+Crawford County|18025
+Daviess County|18027
+Dearborn County|18029
+Decatur County|18031
+De Kalb County|18033
+Delaware County|18035
+Dubois County|18037
+Elkhart County|18039
+Fayette County|18041
+Floyd County|18043
+Fountain County|18045
+Franklin County|18047
+Fulton County|18049
+Gibson County|18051
+Grant County|18053
+Greene County|18055
+Hamilton County|18057
+Hancock County|18059
+Harrison County|18061
+Hendricks County|18063
+Henry County|18065
+Howard County|18067
+Huntington County|18069
+Jackson County|18071
+Jasper County|18073
+Jay County|18075
+Jefferson County|18077
+Jennings County|18079
+Johnson County|18081
+Knox County|18083
+Kosciusko County|18085
+Lagrange County|18087
+Lake County|18089
+La Porte County|18091
+Lawrence County|18093
+Madison County|18095
+Marion County|18097
+Marshall County|18099
+Martin County|18101
+Miami County|18103
+Monroe County|18105
+Montgomery County|18107
+Morgan County|18109
+Newton County|18111
+Noble County|18113
+Ohio County|18115
+Orange County|18117
+Owen County|18119
+Parke County|18121
+Perry County|18123
+Pike County|18125
+Porter County|18127
+Posey County|18129
+Pulaski County|18131
+Putnam County|18133
+Randolph County|18135
+Ripley County|18137
+Rush County|18139
+St. Joseph County|18141
+Scott County|18143
+Shelby County|18145
+Spencer County|18147
+Starke County|18149
+Steuben County|18151
+Sullivan County|18153
+Switzerland County|18155
+Tippecanoe County|18157
+Tipton County|18159
+Union County|18161
+Vanderburgh County|18163
+Vermillion County|18165
+Vigo County|18167
+Wabash County|18169
+Warren County|18171
+Warrick County|18173
+Washington County|18175
+Wayne County|18177
+Wells County|18179
+White County|18181
+Whitley County|18183
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC74|162.550|Indianapolis
+KHB52|162.500|Richmond
+KIG76|162.550|Evansville
+KIH43|162.475|New Albany
+KJY62|162.500|Michigan City
+KJY93|162.425|Muncie
+KXI94|162.425|Angola
+KZZ27|162.425|Newport
+KZZ36|162.500|North Webster
+WNG689|162.450|Hebron
+WWG72|162.500|Georgia
+WWG73|162.525|Seymour
+WWG83|162.425|Edwardsport
+WXJ57|162.400|South Bend
+WXJ58|162.550|Fort Wayne
+WXK72|162.400|Putnamville
+WXK74|162.475|Monticello/Lafayette
+WXM78|162.450|Bloomington
+WXM98|162.450|Marion
+
+======================================================================

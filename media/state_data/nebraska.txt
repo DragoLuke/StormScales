@@ -1,0 +1,139 @@
+======================================================================
+# EAS State Data File: NEBRASKA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 31
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adams County|31001
+Antelope County|31003
+Arthur County|31005
+Banner County|31007
+Blaine County|31009
+Boone County|31011
+Box Butte County|31013
+Boyd County|31015
+Brown County|31017
+Buffalo County|31019
+Burt County|31021
+Butler County|31023
+Cass County|31025
+Cedar County|31027
+Chase County|31029
+Cherry County|31031
+Cheyenne County|31033
+Clay County|31035
+Colfax County|31037
+Cuming County|31039
+Custer County|31041
+Dakota County|31043
+Dawes County|31045
+Dawson County|31047
+Deuel County|31049
+Dixon County|31051
+Dodge County|31053
+Douglas County|31055
+Dundy County|31057
+Fillmore County|31059
+Franklin County|31061
+Frontier County|31063
+Furnas County|31065
+Gage County|31067
+Garden County|31069
+Garfield County|31071
+Gosper County|31073
+Grant County|31075
+Greeley County|31077
+Hall County|31079
+Hamilton County|31081
+Harlan County|31083
+Hayes County|31085
+Hitchcock County|31087
+Holt County|31089
+Hooker County|31091
+Howard County|31093
+Jefferson County|31095
+Johnson County|31097
+Kearney County|31099
+Keith County|31101
+Keya Paha County|31103
+Kimball County|31105
+Knox County|31107
+Lancaster County|31109
+Lincoln County|31111
+Logan County|31113
+Loup County|31115
+McPherson County|31117
+Madison County|31119
+Merrick County|31121
+Morrill County|31123
+Nance County|31125
+Nemaha County|31127
+Nuckolls County|31129
+Otoe County|31131
+Pawnee County|31133
+Perkins County|31135
+Phelps County|31137
+Pierce County|31139
+Platte County|31141
+Polk County|31143
+Red Willow County|31145
+Richardson County|31147
+Rock County|31149
+Saline County|31151
+Sarpy County|31153
+Saunders County|31155
+Scotts Bluff County|31157
+Seward County|31159
+Sheridan County|31161
+Sherman County|31163
+Sioux County|31165
+Stanton County|31167
+Thayer County|31169
+Thomas County|31171
+Thurston County|31173
+Valley County|31175
+Washington County|31177
+Wayne County|31179
+Webster County|31181
+Wheeler County|31183
+York County|31185
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC39|162.525|Cambridge
+KGG99|162.425|Lexington
+KHA55|162.525|Oshkosh
+KIH61|162.400|Omaha
+KPS502|162.425|Mullen
+KWN41|162.500|Shubert
+KWN62|162.525|Ord
+KXI20|162.525|Chadron
+KXI21|162.500|Yankton
+KZZ69|162.450|Beatrice
+WNG524|162.500|Trenton
+WNG549|162.450|Columbus
+WNG578|162.525|Superior
+WNG645|162.500|Albion
+WXL67|162.475|Scottsbluff
+WXL68|162.550|North Platte
+WXL73|162.475|Bassett
+WXL74|162.400|Grand Island
+WXL75|162.475|Holdrege
+WXL76|162.400|Merriman
+WXL77|162.550|Norfolk
+WXM20|162.475|Lincoln
+WXN61|162.500|Sidney
+WXN72|162.500|Merna
+WXN82|162.450|Valentine
+
+======================================================================

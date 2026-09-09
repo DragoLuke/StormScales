@@ -1,0 +1,109 @@
+======================================================================
+# EAS State Data File: PENNSYLVANIA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 42
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adams County|42001
+Allegheny County|42003
+Armstrong County|42005
+Beaver County|42007
+Bedford County|42009
+Berks County|42011
+Blair County|42013
+Bradford County|42015
+Bucks County|42017
+Butler County|42019
+Cambria County|42021
+Cameron County|42023
+Carbon County|42025
+Centre County|42027
+Chester County|42029
+Clarion County|42031
+Clearfield County|42033
+Clinton County|42035
+Columbia County|42037
+Crawford County|42039
+Cumberland County|42041
+Dauphin County|42043
+Delaware County|42045
+Elk County|42047
+Erie County|42049
+Fayette County|42051
+Forest County|42053
+Franklin County|42055
+Fulton County|42057
+Greene County|42059
+Huntingdon County|42061
+Indiana County|42063
+Jefferson County|42065
+Juniata County|42067
+Lackawanna County|42069
+Lancaster County|42071
+Lawrence County|42073
+Lebanon County|42075
+Lehigh County|42077
+Luzerne County|42079
+Lycoming County|42081
+Mc Kean County|42083
+Mercer County|42085
+Mifflin County|42087
+Monroe County|42089
+Montgomery County|42091
+Montour County|42093
+Northampton County|42095
+Northumberland County|42097
+Perry County|42099
+Philadelphia County|42101
+Pike County|42103
+Potter County|42105
+Schuylkill County|42107
+Snyder County|42109
+Somerset County|42111
+Sullivan County|42113
+Susquehanna County|42115
+Tioga County|42117
+Union County|42119
+Venango County|42121
+Warren County|42123
+Washington County|42125
+Wayne County|42127
+Westmoreland County|42129
+Wyoming County|42131
+York County|42133
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC58|162.400|Erie
+KIH28|162.475|Philadelphia
+KIH35|162.550|Pittsburgh
+KZZ32|162.475|Meadville
+KZZ42|162.500|Reynoldsville
+WNG589|162.425|Altoona
+WNG591|162.500|Coudersport
+WNG704|162.425|Hibernia Park
+WNG705|162.450|Honesdale
+WWG51|162.450|Warren
+WWG52|162.525|Huntingdon
+WWG53|162.425|Parker
+WXL39|162.400|Allentown
+WXL40|162.550|Harrisburg
+WXL43|162.550|Wilkes-Barre
+WXL52|162.550|Clearfield
+WXL55|162.400|Williamsport
+WXM33|162.400|Johnstown
+WXM59|162.475|State College
+WXM94|162.475|Wellsboro
+WXM95|162.525|Towanda
+
+======================================================================

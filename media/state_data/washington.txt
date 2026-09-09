@@ -1,0 +1,77 @@
+======================================================================
+# EAS State Data File: WASHINGTON
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 53
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adams County|53001
+Asotin County|53003
+Benton County|53005
+Chelan County|53007
+Clallam County|53009
+Clark County|53011
+Columbia County|53013
+Cowlitz County|53015
+Douglas County|53017
+Ferry County|53019
+Franklin County|53021
+Garfield County|53023
+Grant County|53025
+Grays Harbor County|53027
+Island County|53029
+Jefferson County|53031
+King County|53033
+Kitsap County|53035
+Kittitas County|53037
+Klickitat County|53039
+Lewis County|53041
+Lincoln County|53043
+Mason County|53045
+Okanogan County|53047
+Pacific County|53049
+Pend Oreille County|53051
+Pierce County|53053
+San Juan County|53055
+Skagit County|53057
+Skamania County|53059
+Snohomish County|53061
+Spokane County|53063
+Stevens County|53065
+Thurston County|53067
+Wahkiakum County|53069
+Walla Walla County|53071
+Whatcom County|53073
+Whitman County|53075
+Yakima County|53077
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KAD93|162.525|H Street - Blaine Area
+KEC91|162.400|Astoria
+KHB60|162.550|Seattle
+KIG75|162.550|Yakima
+KIH36|162.550|Neah Bay
+KXI27|162.425|Forks
+KZZ73|162.525|Dayton
+WNG604|162.525|Davis Peak
+WWF49|162.525|Okanogan
+WWF56|162.450|Richland
+WWG24|162.425|Puget Sound Marine
+WWH27|162.425|Plymouth
+WXL86|162.400|Spokane
+WXM48|162.475|Wenatchee
+WXM62|162.475|Capitol Peak
+WXN21|162.400|Cle Elum
+WZ2502|162.425|Randle
+
+======================================================================

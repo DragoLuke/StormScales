@@ -1,0 +1,79 @@
+======================================================================
+# EAS State Data File: IDAHO
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 16
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Ada County|16001
+Adams County|16003
+Bannock County|16005
+Bear Lake County|16007
+Benewah County|16009
+Bingham County|16011
+Blaine County|16013
+Boise County|16015
+Bonner County|16017
+Bonneville County|16019
+Boundary County|16021
+Butte County|16023
+Camas County|16025
+Canyon County|16027
+Caribou County|16029
+Cassia County|16031
+Clark County|16033
+Clearwater County|16035
+Custer County|16037
+Elmore County|16039
+Franklin County|16041
+Fremont County|16043
+Gem County|16045
+Gooding County|16047
+Idaho County|16049
+Jefferson County|16051
+Jerome County|16053
+Kootenai County|16055
+Latah County|16057
+Lemhi County|16059
+Lewis County|16061
+Lincoln County|16063
+Madison County|16065
+Minidoka County|16067
+Nez Perce County|16069
+Oneida County|16071
+Owyhee County|16073
+Payette County|16075
+Power County|16077
+Shoshone County|16079
+Teton County|16081
+Twin Falls County|16083
+Valley County|16085
+Washington County|16087
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KJY57|162.450|Driggs
+KPS509|162.500|Salmon
+KXI82|162.450|Grangeville
+KZZ72|162.425|Sedgwick Peak
+WNG605|162.475|Burley
+WWF58|162.475|McCall
+WWG99|162.500|Bonners Ferry
+WXK68|162.550|Boise
+WXK88|162.400|Payette
+WXK98|162.550|Lewiston
+WXL33|162.550|Pocatello
+WXL35|162.400|Twin Falls
+WZ2520|162.450|Sun Valley
+WZ2535|162.500|Orofino
+
+======================================================================

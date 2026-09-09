@@ -1,0 +1,52 @@
+======================================================================
+# EAS State Data File: NEVADA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 32
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Churchill County|32001
+Clark County|32003
+Douglas County|32005
+Elko County|32007
+Esmeralda County|32009
+Eureka County|32011
+Humboldt County|32013
+Lander County|32015
+Lincoln County|32017
+Lyon County|32019
+Mineral County|32021
+Nye County|32023
+Pershing County|32027
+Storey County|32029
+Washoe County|32031
+White Pine County|32033
+Carson City|32510
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KQC45|162.500|Bullhead City
+WNG634|162.400|Pahrump
+WNG700|162.500|Jackpot
+WNG731|162.450|Owyhee
+WWF59|162.475|Hawthorne
+WWF81|162.550|Eureka
+WWG20|162.450|Fernley
+WXK58|162.550|Reno
+WXL28|162.550|Elko
+WXL29|162.400|Winnemucca
+WXL36|162.550|Las Vegas
+WXL69|162.400|Ely
+WZ2519|162.400|Tonopah
+WZ2521|162.425|Battle Mtn.
+
+======================================================================

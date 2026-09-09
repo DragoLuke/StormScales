@@ -1,0 +1,170 @@
+======================================================================
+# EAS State Data File: VIRGINIA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 51
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Accomack County|51001
+Albemarle County|51003
+Alleghany County|51005
+Amelia County|51007
+Amherst County|51009
+Appomattox County|51011
+Arlington County|51013
+Augusta County|51015
+Bath County|51017
+Bedford County|51019
+Bland County|51021
+Botetourt County|51023
+Brunswick County|51025
+Buchanan County|51027
+Buckingham County|51029
+Campbell County|51031
+Caroline County|51033
+Carroll County|51035
+Charles City County|51036
+Charlotte County|51037
+Chesterfield County|51041
+Clarke County|51043
+Craig County|51045
+Culpeper County|51047
+Cumberland County|51049
+Dickenson County|51051
+Dinwiddie County|51053
+Essex County|51057
+Fairfax County|51059
+Fauquier County|51061
+Floyd County|51063
+Fluvanna County|51065
+Franklin County|51067
+Frederick County|51069
+Giles County|51071
+Gloucester County|51073
+Goochland County|51075
+Grayson County|51077
+Greene County|51079
+Greensville County|51081
+Halifax County|51083
+Hanover County|51085
+Henrico County|51087
+Henry County|51089
+Highland County|51091
+Isle of Wight County|51093
+James City County|51095
+King and Queen County|51097
+King George County|51099
+King William County|51101
+Lancaster County|51103
+Lee County|51105
+Loudoun County|51107
+Louisa County|51109
+Lunenburg County|51111
+Madison County|51113
+Mathews County|51115
+Mecklenburg County|51117
+Middlesex County|51119
+Montgomery County|51121
+Nelson County|51125
+New Kent County|51127
+Northampton County|51131
+Northumberland County|51133
+Nottoway County|51135
+Orange County|51137
+Page County|51139
+Patrick County|51141
+Pittsylvania County|51143
+Powhatan County|51145
+Prince Edward County|51147
+Prince George County|51149
+Prince William County|51153
+Pulaski County|51155
+Rappahannock County|51157
+Richmond County|51159
+Roanoke County|51161
+Rockbridge County|51163
+Rockingham County|51165
+Russell County|51167
+Scott County|51169
+Shenandoah County|51171
+Smyth County|51173
+Southampton County|51175
+Spotsylvania County|51177
+Stafford County|51179
+Surry County|51181
+Sussex County|51183
+Tazewell County|51185
+Warren County|51187
+Washington County|51191
+Westmoreland County|51193
+Wise County|51195
+Wythe County|51197
+York County|51199
+Alexandria city|51510
+Bedford city|51515
+Bristol city|51520
+Buena Vista city|51530
+Charlottesville city|51540
+Chesapeake city|51550
+Clifton Forge city|51560
+Colonial Heights city|51570
+Covington city|51580
+Danville city|51590
+Emporia city|51595
+Fairfax city|51600
+Falls Church city|51610
+Franklin city|51620
+Fredericksburg city|51630
+Galax city|51640
+Hampton city|51650
+Harrisonburg city|51660
+Hopewell city|51670
+Lexington city|51678
+Lynchburg city|51680
+Manassas city|51683
+Manassas Park city|51685
+Martinsville city|51690
+Newport News city|51700
+Norfolk city|51710
+Norton city|51720
+Petersburg city|51730
+Poquoson city|51735
+Portsmouth city|51740
+Radford city|51750
+Richmond city|51760
+Roanoke city|51770
+Salem city|51775
+South Boston city (After 1990, part of Halifax County)|51780
+Staunton city|51790
+Suffolk city|51800
+Virginia Beach city|51810
+Waynesboro city|51820
+Williamsburg city|51830
+Winchester city|51840
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KAE42|162.500|Providence Forge
+KHB36|162.550|Manassas
+KHB37|162.550|Norfolk
+KJY86|162.525|South Boston
+KJY99|162.525|Accomack
+KZZ28|162.450|Covesville
+WXK65|162.475|Richmond
+WXL60|162.475|Roanoke
+WXL92|162.550|Lynchburg
+WXM57|162.400|Heathsville
+WZ2500|162.450|Sand Mtn
+WZ2527|162.425|Fredericksburg
+WZ2543|162.425|Richlands
+
+======================================================================

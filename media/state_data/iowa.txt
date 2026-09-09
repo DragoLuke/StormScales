@@ -1,0 +1,146 @@
+======================================================================
+# EAS State Data File: IOWA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 19
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adair County|19001
+Adams County|19003
+Allamakee County|19005
+Appanoose County|19007
+Audubon County|19009
+Benton County|19011
+Black Hawk County|19013
+Boone County|19015
+Bremer County|19017
+Buchanan County|19019
+Buena Vista County|19021
+Butler County|19023
+Calhoun County|19025
+Carroll County|19027
+Cass County|19029
+Cedar County|19031
+Cerro Gordo County|19033
+Cherokee County|19035
+Chickasaw County|19037
+Clarke County|19039
+Clay County|19041
+Clayton County|19043
+Clinton County|19045
+Crawford County|19047
+Dallas County|19049
+Davis County|19051
+Decatur County|19053
+Delaware County|19055
+Des Moines County|19057
+Dickinson County|19059
+Dubuque County|19061
+Emmet County|19063
+Fayette County|19065
+Floyd County|19067
+Franklin County|19069
+Fremont County|19071
+Greene County|19073
+Grundy County|19075
+Guthrie County|19077
+Hamilton County|19079
+Hancock County|19081
+Hardin County|19083
+Harrison County|19085
+Henry County|19087
+Howard County|19089
+Humboldt County|19091
+Ida County|19093
+Iowa County|19095
+Jackson County|19097
+Jasper County|19099
+Jefferson County|19101
+Johnson County|19103
+Jones County|19105
+Keokuk County|19107
+Kossuth County|19109
+Lee County|19111
+Linn County|19113
+Louisa County|19115
+Lucas County|19117
+Lyon County|19119
+Madison County|19121
+Mahaska County|19123
+Marion County|19125
+Marshall County|19127
+Mills County|19129
+Mitchell County|19131
+Monona County|19133
+Monroe County|19135
+Montgomery County|19137
+Muscatine County|19139
+Osceola County|19143
+Page County|19145
+Palo Alto County|19147
+Plymouth County|19149
+Pocahontas County|19151
+Polk County|19153
+Pottawattamie County|19155
+Poweshiek County|19157
+Ringgold County|19159
+Sac County|19161
+Scott County|19163
+Shelby County|19165
+Sioux County|19167
+Story County|19169
+Tama County|19171
+Taylor County|19173
+Union County|19175
+Van Buren County|19177
+Wapello County|19179
+Warren County|19181
+Washington County|19183
+Wayne County|19185
+Webster County|19187
+Winnebago County|19189
+Winneshiek County|19191
+Woodbury County|19193
+Worth County|19195
+Wright County|19197
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KJY63|162.500|Forest City
+KJY64|162.450|Delaware
+KWN47|162.450|Storm Lake
+KWN48|162.525|Sanborn
+KXI60|162.525|Decorah
+KXI62|162.450|Montezuma
+KXI65|162.450|Lenox
+KXI68|162.450|St. Ansgar
+KXI98|162.500|Marshalltown
+KZZ50|162.550|Essex
+KZZ51|162.425|Carroll
+KZZ52|162.525|Hancock/Pottawattam
+KZZ68|162.475|Van Wert
+KZZ80|162.550|Milford
+KZZ83|162.425|Maquoketa
+WNG666|162.525|Iowa Falls
+WNG668|162.550|Denison
+WNG688|162.475|Ringsted
+WNG730|162.500|Ottumwa
+WXK84|162.400|Fort Dodge
+WXL57|162.550|Des Moines
+WXL61|162.475|Cedar Rapids
+WXL62|162.475|Sioux City
+WXL94|162.550|Waterloo
+WXN83|162.525|Burlington
+WXN85|162.400|Fairfield
+WXN91|162.425|Lake Rathbun
+
+======================================================================

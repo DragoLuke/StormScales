@@ -1,0 +1,23 @@
+======================================================================
+# EAS State Data File: DISTRICT OF COLUMBIA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 11
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+District of Columbia|11001
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+# No transmitter data // Number of Stations in District Of Columbia = 0
+
+======================================================================

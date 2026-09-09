@@ -1,0 +1,39 @@
+======================================================================
+# EAS State Data File: VERMONT
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 50
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Addison County|50001
+Bennington County|50003
+Caledonia County|50005
+Chittenden County|50007
+Essex County|50009
+Franklin County|50011
+Grand Isle County|50013
+Lamoille County|50015
+Orange County|50017
+Orleans County|50019
+Rutland County|50021
+Washington County|50023
+Windham County|50025
+Windsor County|50027
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KIG60|162.400|Burlington
+WNG671|162.500|Castleton
+WWG50|162.425|St. Johnsbury
+WXM44|162.475|Windsor
+
+======================================================================

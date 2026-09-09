@@ -1,0 +1,114 @@
+======================================================================
+# EAS State Data File: CALIFORNIA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 06
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Alameda County|06001
+Alpine County|06003
+Amador County|06005
+Butte County|06007
+Calaveras County|06009
+Colusa County|06011
+Contra Costa County|06013
+Del Norte County|06015
+El Dorado County|06017
+Fresno County|06019
+Glenn County|06021
+Humboldt County|06023
+Imperial County|06025
+Inyo County|06027
+Kern County|06029
+Kings County|06031
+Lake County|06033
+Lassen County|06035
+Los Angeles County|06037
+Madera County|06039
+Marin County|06041
+Mariposa County|06043
+Mendocino County|06045
+Merced County|06047
+Modoc County|06049
+Mono County|06051
+Monterey County|06053
+Napa County|06055
+Nevada County|06057
+Orange County|06059
+Placer County|06061
+Plumas County|06063
+Riverside County|06065
+Sacramento County|06067
+San Benito County|06069
+San Bernardino County|06071
+San Diego County|06073
+San Francisco County|06075
+San Joaquin County|06077
+San Luis Obispo County|06079
+San Mateo County|06081
+Santa Barbara County|06083
+Santa Clara County|06085
+Santa Cruz County|06087
+Shasta County|06089
+Sierra County|06091
+Siskiyou County|06093
+Solano County|06095
+Sonoma County|06097
+Stanislaus County|06099
+Sutter County|06101
+Tehama County|06103
+Trinity County|06105
+Tulare County|06107
+Tuolumne County|06109
+Ventura County|06111
+Yolo County|06113
+Yuba County|06115
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KAD94|162.450|Yosemite
+KDX54|162.500|Big Rock Ridge
+KEC49|162.550|Monterey
+KEC57|162.550|Sacramento
+KEC62|162.400|San Diego
+KEC82|162.400|Eureka
+KHB49|162.400|San Francisco
+KIG78|162.400|Coachella
+KIH30|162.550|Point Arena
+KIH31|162.550|San Luis Obispo
+KIH34|162.400|Santa Barbara
+KIH62|162.400|Fresno
+KWL22|162.425|Malibu Marine
+KWO37|162.550|Los Angeles
+WNG584|162.525|Avalon
+WNG592|162.525|San Simeon
+WNG595|162.525|Conway Summit
+WNG637|162.425|San Diego Marine
+WNG655|162.425|Contra Costa County
+WNG659|162.425|El Paso Mtns.
+WNG712|162.525|Coachella / Spanish
+WNG720|162.525|Ukiah
+WWF62|162.475|Santa Barbara Marine
+WWF64|162.450|Monterey Marine
+WWF67|162.400|Grass Valley
+WWG21|162.450|Santa Ana
+WXL87|162.550|Yuma
+WXL88|162.550|Redding
+WXL89|162.550|Bakersfield
+WXM66|162.500|Victorville
+WZ2504|162.475|Sonoma County
+WZ2505|162.425|Sandberg
+WZ2524|162.425|Bishop
+WZ2530|162.500|Susanville
+WZ2550|162.450|Willow Creek
+
+======================================================================

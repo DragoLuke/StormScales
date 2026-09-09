@@ -1,0 +1,113 @@
+======================================================================
+# EAS State Data File: COLORADO
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 08
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adams County|08001
+Alamosa County|08003
+Arapahoe County|08005
+Archuleta County|08007
+Baca County|08009
+Bent County|08011
+Boulder County|08013
+Chaffee County|08015
+Cheyenne County|08017
+Clear Creek County|08019
+Conejos County|08021
+Costilla County|08023
+Crowley County|08025
+Custer County|08027
+Delta County|08029
+Denver County|08031
+Dolores County|08033
+Douglas County|08035
+Eagle County|08037
+Elbert County|08039
+El Paso County|08041
+Fremont County|08043
+Garfield County|08045
+Gilpin County|08047
+Grand County|08049
+Gunnison County|08051
+Hinsdale County|08053
+Huerfano County|08055
+Jackson County|08057
+Jefferson County|08059
+Kiowa County|08061
+Kit Carson County|08063
+Lake County|08065
+La Plata County|08067
+Larimer County|08069
+Las Animas County|08071
+Lincoln County|08073
+Logan County|08075
+Mesa County|08077
+Mineral County|08079
+Moffat County|08081
+Montezuma County|08083
+Montrose County|08085
+Morgan County|08087
+Otero County|08089
+Ouray County|08091
+Park County|08093
+Phillips County|08095
+Pitkin County|08097
+Prowers County|08099
+Pueblo County|08101
+Rio Blanco County|08103
+Rio Grande County|08105
+Routt County|08107
+Saguache County|08109
+San Juan County|08111
+San Miguel County|08113
+Sedgwick County|08115
+Summit County|08117
+Teller County|08119
+Washington County|08121
+Weld County|08123
+Yuma County|08125
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC76|162.550|Denver
+KJY81|162.500|Canon City
+KJY84|162.425|Anton
+KWN40|162.525|Fort Morgan
+KWN54|162.425|Durango
+KWN56|162.525|Steamboat Springs
+KWN60|162.525|Lamar
+KXI90|162.450|Montrose
+WNG550|162.450|Franktown
+WNG579|162.450|Walsenburg
+WNG664|162.400|Springfield
+WNG737|162.400|Dillon
+WWF77|162.525|Bethune
+WWG23|162.500|La Junta
+WWG43|162.500|Glenwood Springs
+WWG44|162.425|Fowler
+WWH32|162.450|Boyero
+WXJ45|162.500|Deer Trail
+WXM50|162.400|Greeley
+WXM51|162.475|Mead/Longmont
+WXM52|162.400|Pueblo
+WXM53|162.400|Sterling
+WXM54|162.475|Alamosa
+WXM55|162.550|Grand Junction
+WXM56|162.475|Colorado Springs
+WXM87|162.475|Wray
+WXM92|162.450|Fort Collins/Ault
+WZ2518|162.450|Eagle
+WZ2544|162.500|North Cottonwood
+
+======================================================================

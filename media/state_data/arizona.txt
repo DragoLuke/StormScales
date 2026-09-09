@@ -1,0 +1,49 @@
+======================================================================
+# EAS State Data File: ARIZONA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 04
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Apache County|04001
+Cochise County|04003
+Coconino County|04005
+Gila County|04007
+Graham County|04009
+Greenlee County|04011
+La Paz County|04012
+Maricopa County|04013
+Mohave County|04015
+Navajo County|04017
+Pima County|04019
+Pinal County|04021
+Santa Cruz County|04023
+Yavapai County|04025
+Yuma County|04027
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC94|162.550|Phoenix
+KXI23|162.525|Greer
+KXI24|162.475|Safford
+KXI83|162.425|Kingman
+KXI84|162.400|Lake Havasu
+WNG703|162.500|Nogales
+WWF52|162.475|Grand Canyon
+WWF98|162.525|Prescott
+WWF99|162.550|Window Rock
+WWG41|162.425|Payson Gila County N.
+WWG42|162.500|Globe
+WXK76|162.400|Flagstaff
+WXL30|162.400|Tucson
+
+======================================================================

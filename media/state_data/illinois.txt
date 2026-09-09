@@ -1,0 +1,152 @@
+======================================================================
+# EAS State Data File: ILLINOIS
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 17
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adams County|17001
+Alexander County|17003
+Bond County|17005
+Boone County|17007
+Brown County|17009
+Bureau County|17011
+Calhoun County|17013
+Carroll County|17015
+Cass County|17017
+Champaign County|17019
+Christian County|17021
+Clark County|17023
+Clay County|17025
+Clinton County|17027
+Coles County|17029
+Cook County|17031
+Crawford County|17033
+Cumberland County|17035
+DeKalb County|17037
+De Witt County|17039
+Douglas County|17041
+DuPage County|17043
+Edgar County|17045
+Edwards County|17047
+Effingham County|17049
+Fayette County|17051
+Ford County|17053
+Franklin County|17055
+Fulton County|17057
+Gallatin County|17059
+Greene County|17061
+Grundy County|17063
+Hamilton County|17065
+Hancock County|17067
+Hardin County|17069
+Henderson County|17071
+Henry County|17073
+Iroquois County|17075
+Jackson County|17077
+Jasper County|17079
+Jefferson County|17081
+Jersey County|17083
+Jo Daviess County|17085
+Johnson County|17087
+Kane County|17089
+Kankakee County|17091
+Kendall County|17093
+Knox County|17095
+Lake County|17097
+La Salle County|17099
+Lawrence County|17101
+Lee County|17103
+Livingston County|17105
+Logan County|17107
+McDonough County|17109
+McHenry County|17111
+McLean County|17113
+Macon County|17115
+Macoupin County|17117
+Madison County|17119
+Marion County|17121
+Marshall County|17123
+Mason County|17125
+Massac County|17127
+Menard County|17129
+Mercer County|17131
+Monroe County|17133
+Montgomery County|17135
+Morgan County|17137
+Moultrie County|17139
+Ogle County|17141
+Peoria County|17143
+Perry County|17145
+Piatt County|17147
+Pike County|17149
+Pope County|17151
+Pulaski County|17153
+Putnam County|17155
+Randolph County|17157
+Richland County|17159
+Rock Island County|17161
+St. Clair County|17163
+Saline County|17165
+Sangamon County|17167
+Schuyler County|17169
+Scott County|17171
+Shelby County|17173
+Stark County|17175
+Stephenson County|17177
+Tazewell County|17179
+Union County|17181
+Vermilion County|17183
+Wabash County|17185
+Warren County|17187
+Washington County|17189
+Wayne County|17191
+White County|17193
+Whiteside County|17195
+Will County|17197
+Williamson County|17199
+Winnebago County|17201
+Woodford County|17203
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KWO39|162.550|Chicago
+KXI41|162.500|Crystal Lake
+KXI42|162.450|Chester
+KXI46|162.500|Shelbyville
+KXI47|162.525|Paris
+KXI48|162.450|Newton
+KXI49|162.475|Salem
+KXI52|162.400|McLeansboro
+KXI58|162.400|Plano
+KXI70|162.450|Jerseyville
+KXI79|162.425|Hillsboro
+KXI86|162.500|Crescent City
+KZZ55|162.525|Dixon
+KZZ56|162.450|Freeport
+KZZ57|162.475|Rockford
+KZZ58|162.525|Kankakee
+KZZ65|162.525|Bloomington
+KZZ66|162.400|Galesburg
+KZZ81|162.425|Lockport
+WNG536|162.550|DeKalb
+WXJ71|162.475|Peoria
+WXJ73|162.550|Quad Cities
+WXJ75|162.400|Springfield
+WXJ76|162.550|Champaign
+WXJ92|162.500|Macomb
+WXK24|162.450|Odell
+WXL22|162.425|Princeton
+WXM49|162.425|Marion
+WXM90|162.525|Jacksonville
+
+======================================================================

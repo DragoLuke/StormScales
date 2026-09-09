@@ -1,0 +1,115 @@
+======================================================================
+# EAS State Data File: ARKANSAS
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 05
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Arkansas County|05001
+Ashley County|05003
+Baxter County|05005
+Benton County|05007
+Boone County|05009
+Bradley County|05011
+Calhoun County|05013
+Carroll County|05015
+Chicot County|05017
+Clark County|05019
+Clay County|05021
+Cleburne County|05023
+Cleveland County|05025
+Columbia County|05027
+Conway County|05029
+Craighead County|05031
+Crawford County|05033
+Crittenden County|05035
+Cross County|05037
+Dallas County|05039
+Desha County|05041
+Drew County|05043
+Faulkner County|05045
+Franklin County|05047
+Fulton County|05049
+Garland County|05051
+Grant County|05053
+Greene County|05055
+Hempstead County|05057
+Hot Spring County|05059
+Howard County|05061
+Independence County|05063
+Izard County|05065
+Jackson County|05067
+Jefferson County|05069
+Johnson County|05071
+Lafayette County|05073
+Lawrence County|05075
+Lee County|05077
+Lincoln County|05079
+Little River County|05081
+Logan County|05083
+Lonoke County|05085
+Madison County|05087
+Marion County|05089
+Miller County|05091
+Mississippi County|05093
+Monroe County|05095
+Montgomery County|05097
+Nevada County|05099
+Newton County|05101
+Ouachita County|05103
+Perry County|05105
+Phillips County|05107
+Pike County|05109
+Poinsett County|05111
+Polk County|05113
+Pope County|05115
+Prairie County|05117
+Pulaski County|05119
+Randolph County|05121
+St. Francis County|05123
+Saline County|05125
+Scott County|05127
+Searcy County|05129
+Sebastian County|05131
+Sevier County|05133
+Sharp County|05135
+Stone County|05137
+Union County|05139
+Van Buren County|05141
+Washington County|05143
+White County|05145
+Woodruff County|05147
+Yell County|05149
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KGG86|162.475|Fountain Hill
+KXI91|162.475|Morrilton
+KXI92|162.425|High Peak
+KXI96|162.400|Russell
+KXI97|162.400|Mena
+WNG639|162.475|Cherokee Village
+WNG643|162.525|Marvell
+WNG694|162.400|Springdale
+WNG725|162.525|El Dorado
+WWF96|162.525|Russellville
+WWG54|162.500|Yellville
+WXJ48|162.475|Gurdon
+WXJ50|162.550|Fort Smith
+WXJ51|162.550|Jonesboro
+WXJ52|162.475|Fayetteville
+WXJ54|162.400|Star City
+WXJ55|162.550|Little Rock
+WXL66|162.450|Mountain View
+WXN92|162.525|Harrison
+
+======================================================================

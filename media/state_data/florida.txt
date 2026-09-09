@@ -1,0 +1,120 @@
+======================================================================
+# EAS State Data File: FLORIDA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 12
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Alachua County|12001
+Baker County|12003
+Bay County|12005
+Bradford County|12007
+Brevard County|12009
+Broward County|12011
+Calhoun County|12013
+Charlotte County|12015
+Citrus County|12017
+Clay County|12019
+Collier County|12021
+Columbia County|12023
+Dade County|12025
+DeSoto County|12027
+Dixie County|12029
+Duval County|12031
+Escambia County|12033
+Flagler County|12035
+Franklin County|12037
+Gadsden County|12039
+Gilchrist County|12041
+Glades County|12043
+Gulf County|12045
+Hamilton County|12047
+Hardee County|12049
+Hendry County|12051
+Hernando County|12053
+Highlands County|12055
+Hillsborough County|12057
+Holmes County|12059
+Indian River County|12061
+Jackson County|12063
+Jefferson County|12065
+Lafayette County|12067
+Lake County|12069
+Lee County|12071
+Leon County|12073
+Levy County|12075
+Liberty County|12077
+Madison County|12079
+Manatee County|12081
+Marion County|12083
+Martin County|12085
+Monroe County|12087
+Nassau County|12089
+Okaloosa County|12091
+Okeechobee County|12093
+Orange County|12095
+Osceola County|12097
+Palm Beach County|12099
+Pasco County|12101
+Pinellas County|12103
+Polk County|12105
+Putnam County|12107
+St. Johns County|12109
+St. Lucie County|12111
+Santa Rosa County|12113
+Sarasota County|12115
+Seminole County|12117
+Sumter County|12119
+Suwannee County|12121
+Taylor County|12123
+Union County|12125
+Volusia County|12127
+Wakulla County|12129
+Walton County|12131
+Washington County|12133
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEB97|162.400|Lake City
+KEC38|162.450|Largo
+KEC50|162.475|West Palm Beach
+KEC86|162.400|Pensacola
+KGG67|162.550|Panama City
+KHB32|162.550|Tampa Bay
+KHB34|162.550|Miami
+KHB39|162.550|Jacksonville
+KIH24|162.400|Tallahassee
+KIH26|162.400|Daytona Beach
+KIH63|162.475|Orlando
+KPS505|162.500|Sumterville
+KWN38|162.550|Morriston
+WNG522|162.425|Palatka
+WNG633|162.425|Sneads
+WNG663|162.425|Princeton
+WWF38|162.400|Inverness
+WWF69|162.425|Fort Pierce
+WWF85|162.525|Ocala
+WWF86|162.500|East Point
+WWF88|162.425|Salem
+WWG59|162.400|Venice
+WWG60|162.450|Tea Table Key
+WWG92|162.525|Naples
+WWH20|162.450|Westville
+WXJ60|162.475|Gainesville
+WXJ70|162.550|Melbourne
+WXJ95|162.400|Key West
+WXK83|162.475|Fort Myers
+WXK83A|162.500|Sebring
+WXM58|162.400|Belle Glade
+WZ2531|162.500|Hialeah Spanish
+
+======================================================================

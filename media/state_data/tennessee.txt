@@ -1,0 +1,137 @@
+======================================================================
+# EAS State Data File: TENNESSEE
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 47
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Anderson County|47001
+Bedford County|47003
+Benton County|47005
+Bledsoe County|47007
+Blount County|47009
+Bradley County|47011
+Campbell County|47013
+Cannon County|47015
+Carroll County|47017
+Carter County|47019
+Cheatham County|47021
+Chester County|47023
+Claiborne County|47025
+Clay County|47027
+Cocke County|47029
+Coffee County|47031
+Crockett County|47033
+Cumberland County|47035
+Davidson County|47037
+Decatur County|47039
+DeKalb County|47041
+Dickson County|47043
+Dyer County|47045
+Fayette County|47047
+Fentress County|47049
+Franklin County|47051
+Gibson County|47053
+Giles County|47055
+Grainger County|47057
+Greene County|47059
+Grundy County|47061
+Hamblen County|47063
+Hamilton County|47065
+Hancock County|47067
+Hardeman County|47069
+Hardin County|47071
+Hawkins County|47073
+Haywood County|47075
+Henderson County|47077
+Henry County|47079
+Hickman County|47081
+Houston County|47083
+Humphreys County|47085
+Jackson County|47087
+Jefferson County|47089
+Johnson County|47091
+Knox County|47093
+Lake County|47095
+Lauderdale County|47097
+Lawrence County|47099
+Lewis County|47101
+Lincoln County|47103
+Loudon County|47105
+McMinn County|47107
+McNairy County|47109
+Macon County|47111
+Madison County|47113
+Marion County|47115
+Marshall County|47117
+Maury County|47119
+Meigs County|47121
+Monroe County|47123
+Montgomery County|47125
+Moore County|47127
+Morgan County|47129
+Obion County|47131
+Overton County|47133
+Perry County|47135
+Pickett County|47137
+Polk County|47139
+Putnam County|47141
+Rhea County|47143
+Roane County|47145
+Robertson County|47147
+Rutherford County|47149
+Scott County|47151
+Sequatchie County|47153
+Sevier County|47155
+Shelby County|47157
+Smith County|47159
+Stewart County|47161
+Sullivan County|47163
+Sumner County|47165
+Tipton County|47167
+Trousdale County|47169
+Unicoi County|47171
+Union County|47173
+Van Buren County|47175
+Warren County|47177
+Washington County|47179
+Wayne County|47181
+Weakley County|47183
+White County|47185
+Williamson County|47187
+Wilson County|47189
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KHA46|162.450|Vale
+KIG79|162.550|Nashville
+KWN52|162.525|Lobelville
+KWN53|162.450|Centerville
+WNG554|162.525|Winchester
+WNG629|162.450|Spencer
+WNG631|162.525|Lafayette
+WNG732|162.450|La Follette
+WWF84|162.425|Lawrenceburg
+WWH30|162.500|Dyersburg
+WWH37|162.500|Clarksville
+WXK46|162.475|Knoxville
+WXK47|162.550|Bristol
+WXK48|162.550|Chattanooga
+WXK49|162.475|Memphis
+WXK60|162.550|Jackson
+WXK61|162.400|Cookeville
+WXK62|162.400|Waverly
+WXK63|162.475|Shelbyville
+WXN74|162.500|Hickman
+WZ2506|162.500|Clifton
+
+======================================================================

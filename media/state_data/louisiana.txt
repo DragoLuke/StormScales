@@ -1,0 +1,96 @@
+======================================================================
+# EAS State Data File: LOUISIANA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 22
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Acadia Parish|22001
+Allen Parish|22003
+Ascension Parish|22005
+Assumption Parish|22007
+Avoyelles Parish|22009
+Beauregard Parish|22011
+Bienville Parish|22013
+Bossier Parish|22015
+Caddo Parish|22017
+Calcasieu Parish|22019
+Caldwell Parish|22021
+Cameron Parish|22023
+Catahoula Parish|22025
+Claiborne Parish|22027
+Concordia Parish|22029
+De Soto Parish|22031
+East Baton Rouge Parish|22033
+East Carroll Parish|22035
+East Feliciana Parish|22037
+Evangeline Parish|22039
+Franklin Parish|22041
+Grant Parish|22043
+Iberia Parish|22045
+Iberville Parish|22047
+Jackson Parish|22049
+Jefferson Parish|22051
+Jefferson Davis Parish|22053
+Lafayette Parish|22055
+Lafourche Parish|22057
+La Salle Parish|22059
+Lincoln Parish|22061
+Livingston Parish|22063
+Madison Parish|22065
+Morehouse Parish|22067
+Natchitoches Parish|22069
+Orleans Parish|22071
+Ouachita Parish|22073
+Plaquemines Parish|22075
+Pointe Coupee Parish|22077
+Rapides Parish|22079
+Red River Parish|22081
+Richland Parish|22083
+Sabine Parish|22085
+St. Bernard Parish|22087
+St. Charles Parish|22089
+St. Helena Parish|22091
+St. James Parish|22093
+St. John the Baptist Parish|22095
+St. Landry Parish|22097
+St. Martin Parish|22099
+St. Mary Parish|22101
+St. Tammany Parish|22103
+Tangipahoa Parish|22105
+Tensas Parish|22107
+Terrebonne Parish|22109
+Union Parish|22111
+Vermilion Parish|22113
+Vernon Parish|22115
+Washington Parish|22117
+Webster Parish|22119
+West Baton Rouge Parish|22121
+West Carroll Parish|22123
+West Feliciana Parish|22125
+Winn Parish|22127
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KHB42|162.400|Lake Charles
+KHB43|162.550|New Orleans
+KHB46|162.400|Baton Rouge
+KIH23|162.475|Morgan City
+WNG521|162.525|Bogalusa
+WXJ96|162.550|Monroe
+WXJ97|162.400|Shreveport
+WXK78|162.475|Alexandria
+WXK80|162.550|Lafayette
+WXL41|162.475|Buras
+WXN87|162.500|Natchitoches
+
+======================================================================

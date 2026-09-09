@@ -1,0 +1,182 @@
+======================================================================
+# EAS State Data File: KENTUCKY
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 21
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adair County|21001
+Allen County|21003
+Anderson County|21005
+Ballard County|21007
+Barren County|21009
+Bath County|21011
+Bell County|21013
+Boone County|21015
+Bourbon County|21017
+Boyd County|21019
+Boyle County|21021
+Bracken County|21023
+Breathitt County|21025
+Breckinridge County|21027
+Bullitt County|21029
+Butler County|21031
+Caldwell County|21033
+Calloway County|21035
+Campbell County|21037
+Carlisle County|21039
+Carroll County|21041
+Carter County|21043
+Casey County|21045
+Christian County|21047
+Clark County|21049
+Clay County|21051
+Clinton County|21053
+Crittenden County|21055
+Cumberland County|21057
+Daviess County|21059
+Edmonson County|21061
+Elliott County|21063
+Estill County|21065
+Fayette County|21067
+Fleming County|21069
+Floyd County|21071
+Franklin County|21073
+Fulton County|21075
+Gallatin County|21077
+Garrard County|21079
+Grant County|21081
+Graves County|21083
+Grayson County|21085
+Green County|21087
+Greenup County|21089
+Hancock County|21091
+Hardin County|21093
+Harlan County|21095
+Harrison County|21097
+Hart County|21099
+Henderson County|21101
+Henry County|21103
+Hickman County|21105
+Hopkins County|21107
+Jackson County|21109
+Jefferson County|21111
+Jessamine County|21113
+Johnson County|21115
+Kenton County|21117
+Knott County|21119
+Knox County|21121
+Larue County|21123
+Laurel County|21125
+Lawrence County|21127
+Lee County|21129
+Leslie County|21131
+Letcher County|21133
+Lewis County|21135
+Lincoln County|21137
+Livingston County|21139
+Logan County|21141
+Lyon County|21143
+McCracken County|21145
+McCreary County|21147
+McLean County|21149
+Madison County|21151
+Magoffin County|21153
+Marion County|21155
+Marshall County|21157
+Martin County|21159
+Mason County|21161
+Meade County|21163
+Menifee County|21165
+Mercer County|21167
+Metcalfe County|21169
+Monroe County|21171
+Montgomery County|21173
+Morgan County|21175
+Muhlenberg County|21177
+Nelson County|21179
+Nicholas County|21181
+Ohio County|21183
+Oldham County|21185
+Owen County|21187
+Owsley County|21189
+Pendleton County|21191
+Perry County|21193
+Pike County|21195
+Powell County|21197
+Pulaski County|21199
+Robertson County|21201
+Rockcastle County|21203
+Rowan County|21205
+Russell County|21207
+Scott County|21209
+Shelby County|21211
+Simpson County|21213
+Spencer County|21215
+Taylor County|21217
+Todd County|21219
+Trigg County|21221
+Trimble County|21223
+Union County|21225
+Warren County|21227
+Washington County|21229
+Wayne County|21231
+Webster County|21233
+Whitley County|21235
+Wolfe County|21237
+Woodford County|21239
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KIH39|162.550|Ashland
+KIH40|162.475|Hazard
+KIH41|162.400|Lexington
+KIH42|162.550|Covington
+KIH43A|162.550|Elizabethtown
+KIH44|162.550|Somerset
+KIH45|162.400|Bowling Green
+KIH46|162.475|Mayfield
+KXI26|162.450|Hopkinsville
+KZZ48|162.450|Owenton
+KZZ49|162.425|Maysville
+KZZ61|162.475|Whitesville
+KZZ62|162.475|Burkesville
+KZZ63|162.525|Campbellsville
+KZZ64|162.450|Ekron
+WNG570|162.500|Horse Cave
+WNG727|162.475|Irvine
+WWF82A|162.525|East Madison County
+WWF82B|162.525|West Madison County
+WWF82C|162.525|Madison County
+WWF82D|162.525|Moberly
+WWG26|162.425|Jackson
+WWG28|162.525|Paintsville
+WWG61|162.550|Stanton
+WWG62|162.525|Pineville
+WWG63|162.475|Frenchburg
+WWG64|162.450|McKee
+WWG65|162.475|London
+WWG66|162.400|Manchester
+WWG67|162.500|Beattyville
+WWG68|162.450|Harlan
+WWG69|162.400|Pikeville
+WWG70|162.425|Mount Vernon
+WWG71|162.400|Morehead
+WWG78|162.500|Williamsburg
+WWG79|162.450|West Liberty
+WWG80|162.425|Monticello
+WWG81|162.500|Phelps
+WXJ91|162.525|Madisonville
+WZ2523|162.500|Frankfort
+WZ2547|162.450|Edmonton
+
+======================================================================

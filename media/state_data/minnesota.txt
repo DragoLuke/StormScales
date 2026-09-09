@@ -1,0 +1,145 @@
+======================================================================
+# EAS State Data File: MINNESOTA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 27
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Aitkin County|27001
+Anoka County|27003
+Becker County|27005
+Beltrami County|27007
+Benton County|27009
+Big Stone County|27011
+Blue Earth County|27013
+Brown County|27015
+Carlton County|27017
+Carver County|27019
+Cass County|27021
+Chippewa County|27023
+Chisago County|27025
+Clay County|27027
+Clearwater County|27029
+Cook County|27031
+Cottonwood County|27033
+Crow Wing County|27035
+Dakota County|27037
+Dodge County|27039
+Douglas County|27041
+Faribault County|27043
+Fillmore County|27045
+Freeborn County|27047
+Goodhue County|27049
+Grant County|27051
+Hennepin County|27053
+Houston County|27055
+Hubbard County|27057
+Isanti County|27059
+Itasca County|27061
+Jackson County|27063
+Kanabec County|27065
+Kandiyohi County|27067
+Kittson County|27069
+Koochiching County|27071
+Lac qui Parle County|27073
+Lake County|27075
+Lake of the Woods County|27077
+Le Sueur County|27079
+Lincoln County|27081
+Lyon County|27083
+McLeod County|27085
+Mahnomen County|27087
+Marshall County|27089
+Martin County|27091
+Meeker County|27093
+Mille Lacs County|27095
+Morrison County|27097
+Mower County|27099
+Murray County|27101
+Nicollet County|27103
+Nobles County|27105
+Norman County|27107
+Olmsted County|27109
+Otter Tail County|27111
+Pennington County|27113
+Pine County|27115
+Pipestone County|27117
+Polk County|27119
+Pope County|27121
+Ramsey County|27123
+Red Lake County|27125
+Redwood County|27127
+Renville County|27129
+Rice County|27131
+Rock County|27133
+Roseau County|27135
+St. Louis County|27137
+Scott County|27139
+Sherburne County|27141
+Sibley County|27143
+Stearns County|27145
+Steele County|27147
+Stevens County|27149
+Swift County|27151
+Todd County|27153
+Traverse County|27155
+Wabasha County|27157
+Wadena County|27159
+Waseca County|27161
+Washington County|27163
+Watonwan County|27165
+Wilkin County|27167
+Winona County|27169
+Wright County|27171
+Yellow Medicine County|27173
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC65|162.550|Minneapolis/St. Paul
+KIG64|162.550|Duluth
+KJY80|162.450|Red Wing
+KXI31|162.450|Jeffers
+KXI32|162.550|Appleton
+KXI39|162.525|New Ulm
+KXI43|162.450|Grand Marais
+KXI44|162.500|Ely
+KXI45|162.525|Gunflint Lake
+KXI50|162.500|Russell
+KZZ29|162.400|Coleraine
+KZZ44|162.450|Elephant Lake
+KZZ45|162.475|Virginia
+KZZ84|162.450|Aitkin
+WNG583|162.525|Lake Bronson
+WNG610|162.450|Waubun
+WNG630|162.425|Finland
+WNG673|162.525|Long Prairie
+WNG676|162.500|Clearwater
+WNG678|162.425|Pine City
+WNG680|162.500|Fergus Falls
+WNG685|162.425|Norwood
+WNG702|162.425|Fulda
+WNG707|162.400|Kensington
+WNG711|162.400|Olivia
+WWF45|162.450|Roosevelt
+WWG98|162.475|Park Rapids
+WXJ64|162.550|Leader
+WXJ86|162.550|LaCrescent
+WXK40|162.400|Mankato
+WXK41|162.475|Rochester
+WXK43|162.550|Thief River Falls
+WXK44|162.475|Willmar
+WXK45|162.550|International Falls
+WXL65|162.400|St. Cloud
+WXM64|162.400|Detroit Lakes
+WXM99|162.425|Bemidji
+
+======================================================================

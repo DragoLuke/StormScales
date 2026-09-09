@@ -1,0 +1,27 @@
+======================================================================
+# EAS State Data File: RHODE ISLAND
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 44
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Bristol County|44001
+Kent County|44003
+Newport County|44005
+Providence County|44007
+Washington County|44009
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+WXJ39|162.400|Providence
+
+======================================================================

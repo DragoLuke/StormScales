@@ -1,0 +1,38 @@
+======================================================================
+# EAS State Data File: NEW HAMPSHIRE
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 33
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Belknap County|33001
+Carroll County|33003
+Cheshire County|33005
+Coos County|33007
+Grafton County|33009
+Hillsborough County|33011
+Merrimack County|33013
+Rockingham County|33015
+Strafford County|33017
+Sullivan County|33019
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KZZ40|162.450|Deerfield
+KZZ41|162.500|Mt. Washington
+WNG544|162.400|Clarksville
+WNG545|162.550|Holderness
+WNG546|162.525|Hanover
+WNG575|162.525|Pack Monadnock
+WXJ40|162.400|Concord
+
+======================================================================

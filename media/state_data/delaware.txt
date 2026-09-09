@@ -1,0 +1,26 @@
+======================================================================
+# EAS State Data File: DELAWARE
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 10
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Kent County|10001
+New Castle County|10003
+Sussex County|10005
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC92|162.475|Salisbury
+WXJ94|162.550|Lewes
+
+======================================================================

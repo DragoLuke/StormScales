@@ -1,0 +1,66 @@
+======================================================================
+# EAS State Data File: NEW MEXICO
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 35
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Bernalillo County|35001
+Catron County|35003
+Chaves County|35005
+Cibola County|35006
+Colfax County|35007
+Curry County|35009
+DeBaca County|35011
+Dona Ana County|35013
+Eddy County|35015
+Grant County|35017
+Guadalupe County|35019
+Harding County|35021
+Hidalgo County|35023
+Lea County|35025
+Lincoln County|35027
+Los Alamos County|35028
+Luna County|35029
+McKinley County|35031
+Mora County|35033
+Otero County|35035
+Quay County|35037
+Rio Arriba County|35039
+Roosevelt County|35041
+Sandoval County|35043
+San Juan County|35045
+San Miguel County|35047
+Santa Fe County|35049
+Sierra County|35051
+Socorro County|35053
+Taos County|35055
+Torrance County|35057
+Union County|35059
+Valencia County|35061
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+WWF37|162.475|Carlsbad
+WWG36|162.450|Roswell
+WXJ33|162.550|Santa Fe
+WXJ34|162.400|Albuquerque
+WXJ35|162.475|Portales
+WXJ36|162.400|Hobbs
+WXJ37|162.475|Farmington
+WXJ38|162.550|Ruidoso
+WXL90|162.550|Des Moines
+WXL91|162.400|Las Cruces
+WXN24|162.425|Artesia
+WZ2516|162.425|Silver City
+
+======================================================================

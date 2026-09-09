@@ -1,0 +1,105 @@
+======================================================================
+# EAS State Data File: SOUTH DAKOTA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 46
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Aurora County|46003
+Beadle County|46005
+Bennett County|46007
+Bon Homme County|46009
+Brookings County|46011
+Brown County|46013
+Brule County|46015
+Buffalo County|46017
+Butte County|46019
+Campbell County|46021
+Charles Mix County|46023
+Clark County|46025
+Clay County|46027
+Codington County|46029
+Corson County|46031
+Custer County|46033
+Davison County|46035
+Day County|46037
+Deuel County|46039
+Dewey County|46041
+Douglas County|46043
+Edmunds County|46045
+Fall River County|46047
+Faulk County|46049
+Grant County|46051
+Gregory County|46053
+Haakon County|46055
+Hamlin County|46057
+Hand County|46059
+Hanson County|46061
+Harding County|46063
+Hughes County|46065
+Hutchinson County|46067
+Hyde County|46069
+Jackson County|46071
+Jerauld County|46073
+Jones County|46075
+Kingsbury County|46077
+Lake County|46079
+Lawrence County|46081
+Lincoln County|46083
+Lyman County|46085
+McCook County|46087
+McPherson County|46089
+Marshall County|46091
+Meade County|46093
+Mellette County|46095
+Miner County|46097
+Minnehaha County|46099
+Moody County|46101
+Pennington County|46103
+Perkins County|46105
+Potter County|46107
+Roberts County|46109
+Sanborn County|46111
+Shannon County|46113
+Spink County|46115
+Stanley County|46117
+Sully County|46119
+Todd County|46121
+Tripp County|46123
+Turner County|46125
+Union County|46127
+Walworth County|46129
+Yankton County|46135
+Ziebach County|46137
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KXI25|162.425|Pickstown
+KXI59|162.450|Philip
+KXI71|162.525|Arlington
+KZZ59|162.500|Porcupine
+KZZ60|162.525|Reliance
+WNG551|162.425|Firesteel
+WNG557|162.475|Faith
+WNG558|162.550|White River
+WWH36|162.450|Mitchell
+WXK64|162.425|Hot Springs
+WXL23|162.525|Lead
+WXM25|162.475|Aberdeen
+WXM26|162.400|Pierre
+WXM27|162.550|Wessington
+WXM28|162.400|Sioux Falls
+WXM40|162.500|Lowry
+WXM41|162.425|South Shore
+WXM63|162.550|Rapid City
+
+======================================================================

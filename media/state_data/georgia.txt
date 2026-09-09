@@ -1,0 +1,208 @@
+======================================================================
+# EAS State Data File: GEORGIA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 13
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Appling County|13001
+Atkinson County|13003
+Bacon County|13005
+Baker County|13007
+Baldwin County|13009
+Banks County|13011
+Barrow County|13013
+Bartow County|13015
+Ben Hill County|13017
+Berrien County|13019
+Bibb County|13021
+Bleckley County|13023
+Brantley County|13025
+Brooks County|13027
+Bryan County|13029
+Bulloch County|13031
+Burke County|13033
+Butts County|13035
+Calhoun County|13037
+Camden County|13039
+Candler County|13043
+Carroll County|13045
+Catoosa County|13047
+Charlton County|13049
+Chatham County|13051
+Chattahoochee County|13053
+Chattooga County|13055
+Cherokee County|13057
+Clarke County|13059
+Clay County|13061
+Clayton County|13063
+Clinch County|13065
+Cobb County|13067
+Coffee County|13069
+Colquitt County|13071
+Columbia County|13073
+Cook County|13075
+Coweta County|13077
+Crawford County|13079
+Crisp County|13081
+Dade County|13083
+Dawson County|13085
+Decatur County|13087
+DeKalb County|13089
+Dodge County|13091
+Dooly County|13093
+Dougherty County|13095
+Douglas County|13097
+Early County|13099
+Echols County|13101
+Effingham County|13103
+Elbert County|13105
+Emanuel County|13107
+Evans County|13109
+Fannin County|13111
+Fayette County|13113
+Floyd County|13115
+Forsyth County|13117
+Franklin County|13119
+Fulton County|13121
+Gilmer County|13123
+Glascock County|13125
+Glynn County|13127
+Gordon County|13129
+Grady County|13131
+Greene County|13133
+Gwinnett County|13135
+Habersham County|13137
+Hall County|13139
+Hancock County|13141
+Haralson County|13143
+Harris County|13145
+Hart County|13147
+Heard County|13149
+Henry County|13151
+Houston County|13153
+Irwin County|13155
+Jackson County|13157
+Jasper County|13159
+Jeff Davis County|13161
+Jefferson County|13163
+Jenkins County|13165
+Johnson County|13167
+Jones County|13169
+Lamar County|13171
+Lanier County|13173
+Laurens County|13175
+Lee County|13177
+Liberty County|13179
+Lincoln County|13181
+Long County|13183
+Lowndes County|13185
+Lumpkin County|13187
+McDuffie County|13189
+McIntosh County|13191
+Macon County|13193
+Madison County|13195
+Marion County|13197
+Meriwether County|13199
+Miller County|13201
+Mitchell County|13205
+Monroe County|13207
+Montgomery County|13209
+Morgan County|13211
+Murray County|13213
+Muscogee County|13215
+Newton County|13217
+Oconee County|13219
+Oglethorpe County|13221
+Paulding County|13223
+Peach County|13225
+Pickens County|13227
+Pierce County|13229
+Pike County|13231
+Polk County|13233
+Pulaski County|13235
+Putnam County|13237
+Quitman County|13239
+Rabun County|13241
+Randolph County|13243
+Richmond County|13245
+Rockdale County|13247
+Schley County|13249
+Screven County|13251
+Seminole County|13253
+Spalding County|13255
+Stephens County|13257
+Stewart County|13259
+Sumter County|13261
+Talbot County|13263
+Taliaferro County|13265
+Tattnall County|13267
+Taylor County|13269
+Telfair County|13271
+Terrell County|13273
+Thomas County|13275
+Tift County|13277
+Toombs County|13279
+Towns County|13281
+Treutlen County|13283
+Troup County|13285
+Turner County|13287
+Twiggs County|13289
+Union County|13291
+Upson County|13293
+Walker County|13295
+Walton County|13297
+Ware County|13299
+Warren County|13301
+Washington County|13303
+Wayne County|13305
+Webster County|13307
+Wheeler County|13309
+White County|13311
+Whitfield County|13313
+Wilcox County|13315
+Wilkes County|13317
+Wilkinson County|13319
+Worth County|13321
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC80|162.550|Atlanta
+KPS506|162.500|Washington
+KWN50|162.450|Ashburn
+KXI22|162.500|Brasstown Bald
+KXI28|162.450|Sandersville
+KXI75|162.475|Blue Ridge
+KXI76|162.450|La Grange
+KXI77|162.400|Eastman
+KXI81|162.450|Clayton
+KXI89|162.525|Eatonton
+KZZ70|162.525|Blakely
+WWH23|162.425|Buchanan
+WWH24|162.425|Toccoa
+WWH25|162.425|Metter
+WWH31|162.500|Valdosta
+WWH39|162.425|Brunswick
+WXJ28|162.450|Jesup
+WXJ30|162.425|Americus
+WXJ31|162.500|Thomaston
+WXJ53|162.525|Cleveland
+WXJ72|162.450|Summerville
+WXK52|162.400|Chatsworth
+WXK53|162.550|Pelham
+WXK54|162.550|Augusta
+WXK56|162.400|Athens
+WXK71|162.475|Macon
+WXK75|162.475|Waycross
+WXM65|162.525|Baxley
+
+======================================================================

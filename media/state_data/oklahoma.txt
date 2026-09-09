@@ -1,0 +1,118 @@
+======================================================================
+# EAS State Data File: OKLAHOMA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 40
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adair County|40001
+Alfalfa County|40003
+Atoka County|40005
+Beaver County|40007
+Beckham County|40009
+Blaine County|40011
+Bryan County|40013
+Caddo County|40015
+Canadian County|40017
+Carter County|40019
+Cherokee County|40021
+Choctaw County|40023
+Cimarron County|40025
+Cleveland County|40027
+Coal County|40029
+Comanche County|40031
+Cotton County|40033
+Craig County|40035
+Creek County|40037
+Custer County|40039
+Delaware County|40041
+Dewey County|40043
+Ellis County|40045
+Garfield County|40047
+Garvin County|40049
+Grady County|40051
+Grant County|40053
+Greer County|40055
+Harmon County|40057
+Harper County|40059
+Haskell County|40061
+Hughes County|40063
+Jackson County|40065
+Jefferson County|40067
+Johnston County|40069
+Kay County|40071
+Kingfisher County|40073
+Kiowa County|40075
+Latimer County|40077
+Le Flore County|40079
+Lincoln County|40081
+Logan County|40083
+Love County|40085
+McClain County|40087
+McCurtain County|40089
+McIntosh County|40091
+Major County|40093
+Marshall County|40095
+Mayes County|40097
+Murray County|40099
+Muskogee County|40101
+Noble County|40103
+Nowata County|40105
+Okfuskee County|40107
+Oklahoma County|40109
+Okmulgee County|40111
+Osage County|40113
+Ottawa County|40115
+Pawnee County|40117
+Payne County|40119
+Pittsburg County|40121
+Pontotoc County|40123
+Pottawatomie County|40125
+Pushmataha County|40127
+Roger Mills County|40129
+Rogers County|40131
+Seminole County|40133
+Sequoyah County|40135
+Stephens County|40137
+Texas County|40139
+Tillman County|40141
+Tulsa County|40143
+Wagoner County|40145
+Washington County|40147
+Washita County|40149
+Woods County|40151
+Woodward County|40153
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KIH27|162.550|Tulsa
+KJY77|162.400|Antlers
+KJY94|162.450|Chickasha
+KJY95|162.550|Wewoka
+KJY96|162.500|Guymon
+KWN49|162.500|Atoka
+KXI57|162.525|Ardmore
+WNG632|162.525|Oktaha
+WNG644|162.425|Bartlesville
+WNG654|162.500|Stillwater
+WWF42|162.450|Ponca City
+WWG46|162.500|Woodward
+WWG97|162.425|Altus
+WWH38|162.525|Grove
+WXJ65|162.450|Broken Bow
+WXK85|162.400|Oklahoma City
+WXK86|162.550|Lawton
+WXK87|162.525|Clinton
+WXL48|162.475|Enid
+WXL49|162.475|McAlester
+
+======================================================================

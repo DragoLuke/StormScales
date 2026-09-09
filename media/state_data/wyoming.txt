@@ -1,0 +1,65 @@
+======================================================================
+# EAS State Data File: WYOMING
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 56
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Albany County|56001
+Big Horn County|56003
+Campbell County|56005
+Carbon County|56007
+Converse County|56009
+Crook County|56011
+Fremont County|56013
+Goshen County|56015
+Hot Springs County|56017
+Johnson County|56019
+Laramie County|56021
+Lincoln County|56023
+Natrona County|56025
+Niobrara County|56027
+Park County|56029
+Platte County|56031
+Sheridan County|56033
+Sublette County|56035
+Sweetwater County|56037
+Teton County|56039
+Uinta County|56041
+Washakie County|56043
+Weston County|56045
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KJY75|162.525|Kemmerer
+KWN39|162.525|Jackson
+KXI34|162.550|Rock Springs
+KXI37|162.425|Rawlins
+KXI85|162.450|Evanston
+WNG563|162.400|Cody
+WNG568|162.525|Worland
+WNG569|162.475|Afton
+WNG571|162.450|Glendo
+WNG573|162.500|Thermopolis
+WNG660|162.500|Gillette
+WNG661|162.475|Newcastle
+WNG662|162.550|Kaycee
+WNG667|162.450|Grant Village
+WNG679|162.500|Pinedale
+WNG686|162.425|Elk Plaza
+WNG723|162.450|Dubois
+WXM37|162.550|Cheyenne
+WXM46|162.475|Sheridan
+WXM47|162.400|Casper
+WXM61|162.475|Lander
+
+======================================================================

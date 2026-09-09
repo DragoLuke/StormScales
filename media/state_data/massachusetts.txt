@@ -1,0 +1,41 @@
+======================================================================
+# EAS State Data File: MASSACHUSETTS
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 25
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Barnstable County|25001
+Berkshire County|25003
+Bristol County|25005
+Dukes County|25007
+Essex County|25009
+Franklin County|25011
+Hampden County|25013
+Hampshire County|25015
+Middlesex County|25017
+Nantucket County|25019
+Norfolk County|25021
+Plymouth County|25023
+Suffolk County|25025
+Worcester County|25027
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC73|162.550|Bourne/Hyannis
+KHB35|162.475|Boston
+WNG574|162.425|Gloucester Marine
+WWF48|162.525|Mt. Greylock
+WXL93|162.550|Worcester
+WXM68|162.425|Leyden
+
+======================================================================

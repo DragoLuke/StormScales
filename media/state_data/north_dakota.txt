@@ -1,0 +1,92 @@
+======================================================================
+# EAS State Data File: NORTH DAKOTA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 38
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Adams County|38001
+Barnes County|38003
+Benson County|38005
+Billings County|38007
+Bottineau County|38009
+Bowman County|38011
+Burke County|38013
+Burleigh County|38015
+Cass County|38017
+Cavalier County|38019
+Dickey County|38021
+Divide County|38023
+Dunn County|38025
+Eddy County|38027
+Emmons County|38029
+Foster County|38031
+Golden Valley County|38033
+Grand Forks County|38035
+Grant County|38037
+Griggs County|38039
+Hettinger County|38041
+Kidder County|38043
+LaMoure County|38045
+Logan County|38047
+McHenry County|38049
+McIntosh County|38051
+McKenzie County|38053
+McLean County|38055
+Mercer County|38057
+Morton County|38059
+Mountrail County|38061
+Nelson County|38063
+Oliver County|38065
+Pembina County|38067
+Pierce County|38069
+Ramsey County|38071
+Ransom County|38073
+Renville County|38075
+Richland County|38077
+Rolette County|38079
+Sargent County|38081
+Sheridan County|38083
+Sioux County|38085
+Slope County|38087
+Stark County|38089
+Steele County|38091
+Stutsman County|38093
+Towner County|38095
+Traill County|38097
+Walsh County|38099
+Ward County|38101
+Wells County|38103
+Williams County|38105
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KWN42|162.475|Rolla
+KWN43|162.500|Langdon
+KWN44|162.450|Cavalier
+KWN45|162.450|Willow City
+KWN46|162.525|Sheyenne
+WNG581|162.400|Steele
+WNG656|162.525|Fort Ransom
+WNG658|162.525|Scranton
+WWF83|162.475|Grand Forks
+WWG25|162.425|Webster
+WXK42|162.475|Fargo
+WXL78|162.475|Bismarck
+WXL80|162.400|Dickinson
+WXL81|162.550|Jamestown
+WXL83|162.400|Minot
+WXL84|162.550|Williston
+WXM38|162.400|Petersburg
+WXN88|162.525|New Town
+
+======================================================================

@@ -1,0 +1,142 @@
+======================================================================
+# EAS State Data File: NORTH CAROLINA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 37
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Alamance County|37001
+Alexander County|37003
+Alleghany County|37005
+Anson County|37007
+Ashe County|37009
+Avery County|37011
+Beaufort County|37013
+Bertie County|37015
+Bladen County|37017
+Brunswick County|37019
+Buncombe County|37021
+Burke County|37023
+Cabarrus County|37025
+Caldwell County|37027
+Camden County|37029
+Carteret County|37031
+Caswell County|37033
+Catawba County|37035
+Chatham County|37037
+Cherokee County|37039
+Chowan County|37041
+Clay County|37043
+Cleveland County|37045
+Columbus County|37047
+Craven County|37049
+Cumberland County|37051
+Currituck County|37053
+Dare County|37055
+Davidson County|37057
+Davie County|37059
+Duplin County|37061
+Durham County|37063
+Edgecombe County|37065
+Forsyth County|37067
+Franklin County|37069
+Gaston County|37071
+Gates County|37073
+Graham County|37075
+Granville County|37077
+Greene County|37079
+Guilford County|37081
+Halifax County|37083
+Harnett County|37085
+Haywood County|37087
+Henderson County|37089
+Hertford County|37091
+Hoke County|37093
+Hyde County|37095
+Iredell County|37097
+Jackson County|37099
+Johnston County|37101
+Jones County|37103
+Lee County|37105
+Lenoir County|37107
+Lincoln County|37109
+McDowell County|37111
+Macon County|37113
+Madison County|37115
+Martin County|37117
+Mecklenburg County|37119
+Mitchell County|37121
+Montgomery County|37123
+Moore County|37125
+Nash County|37127
+New Hanover County|37129
+Northampton County|37131
+Onslow County|37133
+Orange County|37135
+Pamlico County|37137
+Pasquotank County|37139
+Pender County|37141
+Perquimans County|37143
+Person County|37145
+Pitt County|37147
+Polk County|37149
+Randolph County|37151
+Richmond County|37153
+Robeson County|37155
+Rockingham County|37157
+Rowan County|37159
+Rutherford County|37161
+Sampson County|37163
+Scotland County|37165
+Stanly County|37167
+Stokes County|37169
+Surry County|37171
+Swain County|37173
+Transylvania County|37175
+Tyrrell County|37177
+Union County|37179
+Vance County|37181
+Wake County|37183
+Warren County|37185
+Washington County|37187
+Watauga County|37189
+Wayne County|37191
+Wilkes County|37193
+Wilson County|37195
+Yadkin County|37197
+Yancey County|37199
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC84|162.400|New Bern
+KHB31|162.550|Winnabow
+KIG77|162.475|Cape Hatteras
+KJY85|162.525|Statesville
+KXI95|162.425|Warsaw
+WNG537|162.525|Windsor
+WNG538|162.450|Linville
+WNG586|162.500|Henderson
+WNG588|162.500|Mount Jefferson
+WNG597|162.400|Ellerbe
+WNG706|162.450|Garner
+WWF60|162.500|Buck Mountain
+WWG33|162.450|Margarettsville
+WWG82|162.525|Robbinsville
+WWH26|162.425|Mamie
+WXL42|162.400|Winston-Salem
+WXL50|162.475|Saint Pauls
+WXL56|162.400|Asheville
+WXL58|162.550|Chapel Hill
+WXL59|162.475|Rocky Mount
+WXL70|162.475|Charlotte
+
+======================================================================

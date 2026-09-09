@@ -1,0 +1,132 @@
+======================================================================
+# EAS State Data File: MICHIGAN
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 26
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Alcona County|26001
+Alger County|26003
+Allegan County|26005
+Alpena County|26007
+Antrim County|26009
+Arenac County|26011
+Baraga County|26013
+Barry County|26015
+Bay County|26017
+Benzie County|26019
+Berrien County|26021
+Branch County|26023
+Calhoun County|26025
+Cass County|26027
+Charlevoix County|26029
+Cheboygan County|26031
+Chippewa County|26033
+Clare County|26035
+Clinton County|26037
+Crawford County|26039
+Delta County|26041
+Dickinson County|26043
+Eaton County|26045
+Emmet County|26047
+Genesee County|26049
+Gladwin County|26051
+Gogebic County|26053
+Grand Traverse County|26055
+Gratiot County|26057
+Hillsdale County|26059
+Houghton County|26061
+Huron County|26063
+Ingham County|26065
+Ionia County|26067
+Iosco County|26069
+Iron County|26071
+Isabella County|26073
+Jackson County|26075
+Kalamazoo County|26077
+Kalkaska County|26079
+Kent County|26081
+Keweenaw County|26083
+Lake County|26085
+Lapeer County|26087
+Leelanau County|26089
+Lenawee County|26091
+Livingston County|26093
+Luce County|26095
+Mackinac County|26097
+Macomb County|26099
+Manistee County|26101
+Marquette County|26103
+Mason County|26105
+Mecosta County|26107
+Menominee County|26109
+Midland County|26111
+Missaukee County|26113
+Monroe County|26115
+Montcalm County|26117
+Montmorency County|26119
+Muskegon County|26121
+Newaygo County|26123
+Oakland County|26125
+Oceana County|26127
+Ogemaw County|26129
+Ontonagon County|26131
+Osceola County|26133
+Oscoda County|26135
+Otsego County|26137
+Ottawa County|26139
+Presque Isle County|26141
+Roscommon County|26143
+Saginaw County|26145
+St. Clair County|26147
+St. Joseph County|26149
+Sanilac County|26151
+Schoolcraft County|26153
+Shiawassee County|26155
+Tuscola County|26157
+Van Buren County|26159
+Washtenaw County|26161
+Wayne County|26163
+Wexford County|26165
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC63|162.550|Detroit
+KIG66|162.550|Marquette
+KIG74|162.550|Sault Ste Marie
+KIG83|162.550|Alpena
+KIH22|162.400|Traverse City
+KIH29|162.475|Flint
+KJY76|162.475|Crystal Falls
+KXI33|162.450|West Branch
+KZZ33|162.525|Mount Pleasant
+KZZ35|162.500|Escanaba
+WNG572|162.475|Petoskey
+WNG576|162.450|Newberry
+WNG582|162.450|Sandusky
+WNG647|162.450|Adrian / Petersburg
+WNG672|162.425|Wolf Lake
+WNG683|162.550|Marenisco
+WNG684|162.525|Manistique
+WNG701|162.525|Bad Axe
+WWF34|162.475|Plainwell
+WWF36|162.475|Hesperia
+WWF70|162.500|Gaylord
+WXK73|162.400|Houghton
+WXK81|162.400|Onondaga
+WXN99|162.425|West Olive
+WZ2513|162.500|Copper Harbor
+WZ2514|162.475|Munising
+WZ2515|162.425|Grand Marais
+WZ2560|162.550|Cannonsburg
+
+======================================================================

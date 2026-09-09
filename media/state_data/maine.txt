@@ -1,0 +1,48 @@
+======================================================================
+# EAS State Data File: MAINE
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 23
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Androscoggin County|23001
+Aroostook County|23003
+Cumberland County|23005
+Franklin County|23007
+Hancock County|23009
+Kennebec County|23011
+Knox County|23013
+Lincoln County|23015
+Oxford County|23017
+Penobscot County|23019
+Piscataquis County|23021
+Sagadahoc County|23023
+Somerset County|23025
+Waldo County|23027
+Washington County|23029
+York County|23031
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KDO95|162.550|Falmouth
+KEC93|162.400|Ellsworth
+KHB54|162.550|Milo
+KHB55|162.475|Frenchville
+KHC47|162.425|Meddybemps
+WNG542|162.425|Greenville
+WNG543|162.450|Jonesboro Marine
+WNG547|162.450|Sugarloaf Mtn
+WSM60|162.475|Dresden
+WXM77|162.525|Caribou
+WXN28|162.500|Springfield
+
+======================================================================

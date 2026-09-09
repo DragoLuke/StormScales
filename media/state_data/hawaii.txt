@@ -1,0 +1,34 @@
+======================================================================
+# EAS State Data File: HAWAII
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 15
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Hawaii County|15001
+Honolulu County|15003
+Kalawao County|15005
+Kauai County|15007
+Maui County|15009
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KBA99|162.550|Oahu
+WWF39|162.450|Hawaii Kai
+WWG27|162.550|South Point
+WWG74|162.400|Kauai
+WWG75|162.400|Maui
+WWG76|162.550|Kulani Cone
+WZ2540|162.500|North Kohala
+WZ2557|162.450|Lihue
+
+======================================================================

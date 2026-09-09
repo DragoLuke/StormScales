@@ -1,0 +1,109 @@
+======================================================================
+# EAS State Data File: ALABAMA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 01
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Autauga County|01001
+Baldwin County|01003
+Barbour County|01005
+Bibb County|01007
+Blount County|01009
+Bullock County|01011
+Butler County|01013
+Calhoun County|01015
+Chambers County|01017
+Cherokee County|01019
+Chilton County|01021
+Choctaw County|01023
+Clarke County|01025
+Clay County|01027
+Cleburne County|01029
+Coffee County|01031
+Colbert County|01033
+Conecuh County|01035
+Coosa County|01037
+Covington County|01039
+Crenshaw County|01041
+Cullman County|01043
+Dale County|01045
+Dallas County|01047
+DeKalb County|01049
+Elmore County|01051
+Escambia County|01053
+Etowah County|01055
+Fayette County|01057
+Franklin County|01059
+Geneva County|01061
+Greene County|01063
+Hale County|01065
+Henry County|01067
+Houston County|01069
+Jackson County|01071
+Jefferson County|01073
+Lamar County|01075
+Lauderdale County|01077
+Lawrence County|01079
+Lee County|01081
+Limestone County|01083
+Lowndes County|01085
+Macon County|01087
+Madison County|01089
+Marengo County|01091
+Marion County|01093
+Marshall County|01095
+Mobile County|01097
+Monroe County|01099
+Montgomery County|01101
+Morgan County|01103
+Perry County|01105
+Pickens County|01107
+Pike County|01109
+Randolph County|01111
+Russell County|01113
+St. Clair County|01115
+Shelby County|01117
+Sumter County|01119
+Talladega County|01121
+Tallapoosa County|01123
+Tuscaloosa County|01125
+Walker County|01127
+Washington County|01129
+Wilcox County|01131
+Winston County|01133
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC61|162.550|Mobile
+KIH20|162.400|Huntsville
+KIH54|162.550|Birmingham
+KIH55|162.400|Montgomery
+KIH56|162.475|Louisville
+KIH57|162.475|Florence
+KIH58|162.475|Anniston
+KIH59|162.550|Dozier
+KIH60|162.400|Tuscaloosa
+WNG606|162.425|Oneonta
+WNG607|162.425|Greenville
+WNG635|162.450|Selma
+WNG642|162.525|Arab
+WNG646|162.475|Brewton
+WWF44|162.500|Henagar
+WWF53|162.525|Winfield
+WWF54|162.525|Auburn
+WWF55|162.500|Jackson
+WWF66|162.450|Cullman
+WXL72|162.475|Demopolis
+WXM32|162.400|Columbus
+
+======================================================================

@@ -1,0 +1,82 @@
+======================================================================
+# EAS State Data File: OREGON
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 41
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Baker County|41001
+Benton County|41003
+Clackamas County|41005
+Clatsop County|41007
+Columbia County|41009
+Coos County|41011
+Crook County|41013
+Curry County|41015
+Deschutes County|41017
+Douglas County|41019
+Gilliam County|41021
+Grant County|41023
+Harney County|41025
+Hood River County|41027
+Jackson County|41029
+Jefferson County|41031
+Josephine County|41033
+Klamath County|41035
+Lake County|41037
+Lane County|41039
+Lincoln County|41041
+Linn County|41043
+Malheur County|41045
+Marion County|41047
+Morrow County|41049
+Multnomah County|41051
+Polk County|41053
+Sherman County|41055
+Tillamook County|41057
+Umatilla County|41059
+Union County|41061
+Wallowa County|41063
+Wasco County|41065
+Washington County|41067
+Wheeler County|41069
+Yamhill County|41071
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC42|162.400|Eugene
+KHB30|162.475|Burns Butte
+KIG98|162.550|Portland
+KIH32|162.400|Coos Bay
+KIH33|162.550|Newport
+KIH37|162.550|Brookings
+WNG559|162.550|Fossil
+WNG560|162.500|John Day
+WNG596|162.425|Cape Blanco
+WNG674|162.500|Florence
+WNG697|162.525|Mt Hebo
+WWF80|162.500|Bend/Redmond
+WWF94|162.425|Neahkahnie
+WWF95|162.475|Tillamook
+WWF97|162.475|Mt. Ashland
+WWH28|162.425|Heppner
+WXL85|162.400|Medford
+WXL95|162.400|Spout Springs
+WXL96|162.475|Salem
+WXL97|162.550|Klamath Falls
+WXL98|162.550|Roseburg
+WXM34|162.400|The Dalles
+WZ2509|162.525|Reedsport
+WZ2522|162.475|Carney Butte
+WZ2559|162.425|Enterprise
+
+======================================================================

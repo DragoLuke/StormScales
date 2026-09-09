@@ -1,0 +1,83 @@
+======================================================================
+# EAS State Data File: SOUTH CAROLINA
+# FIPS Generated: 2026-07-26 00:56:18
+# State FIPS Prefix: 45
+# Source: https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+======================================================================
+
+----------------------------------------------------------------------
+# ===== COUNTY FIPS CODES =====
+# Format: COUNTY_NAME|FIPS_CODE
+----------------------------------------------------------------------
+
+Abbeville County|45001
+Aiken County|45003
+Allendale County|45005
+Anderson County|45007
+Bamberg County|45009
+Barnwell County|45011
+Beaufort County|45013
+Berkeley County|45015
+Calhoun County|45017
+Charleston County|45019
+Cherokee County|45021
+Chester County|45023
+Chesterfield County|45025
+Clarendon County|45027
+Colleton County|45029
+Darlington County|45031
+Dillon County|45033
+Dorchester County|45035
+Edgefield County|45037
+Fairfield County|45039
+Florence County|45041
+Georgetown County|45043
+Greenville County|45045
+Greenwood County|45047
+Hampton County|45049
+Horry County|45051
+Jasper County|45053
+Kershaw County|45055
+Lancaster County|45057
+Laurens County|45059
+Lee County|45061
+Lexington County|45063
+McCormick County|45065
+Marion County|45067
+Marlboro County|45069
+Newberry County|45071
+Oconee County|45073
+Orangeburg County|45075
+Pickens County|45077
+Richland County|45079
+Saluda County|45081
+Spartanburg County|45083
+Sumter County|45085
+Union County|45087
+Williamsburg County|45089
+York County|45091
+
+----------------------------------------------------------------------
+# ===== NOAA WEATHER RADIO TRANSMITTERS =====
+# Format: CALLSIGN|FREQUENCY|SITE_NAME
+# Source: https://www.weather.gov/nwr/station_listing
+----------------------------------------------------------------------
+
+KEC85|162.400|Savannah
+KEC95|162.400|Aynor
+KHA35|162.525|Orangeburg
+KHB29|162.550|Charleston
+KHC27|162.425|Rock Hill
+KHC28|162.425|Kirksey
+KHC29|162.500|Barnwell
+WNG627|162.450|Aiken
+WNG628|162.500|Georgetown
+WWG77|162.425|Sumter
+WXJ20|162.400|Columbia
+WXJ21|162.550|Greenville
+WXJ22|162.550|Florence
+WXJ23|162.450|Beaufort
+WXK90|162.450|Cheraw
+WXM93|162.475|Cross
+
+======================================================================
