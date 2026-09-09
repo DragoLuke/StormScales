@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════╗
+║                       ALERT CAPTURE                        ║
+╠════════════════════════════════════════════════════════════╣
+║ HARDWARE    │ 0bda:2838 (Realtek Semiconductor Corp. RTL2838 DVB-T)
+║ TARGET      │ Chouteau county (30015)
+║ STATION     │ WXJ43 - Great Falls (162.550 MHz)
+╠════════════════════════════════════════════════════════════╣
+║                       ALERT DETAILS                        ║
+╠════════════════════════════════════════════════════════════╣
+║ Type        │ SEVERE THUNDERSTORM WARNING
+║ Intercept   │ 08/27/2026 07:41:49 PM MDT
+║ Duration    │ 112.5s (15s pre-roll)
+║ Decoder     │ EAS: ZCZC-WXR-SVR-030015+0200-2400142-KTFX/NWS-
+║ EOM Message │ Received
+╚════════════════════════════════════════════════════════════╝

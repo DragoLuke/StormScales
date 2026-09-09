@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════╗
+║                       ALERT CAPTURE                        ║
+╠════════════════════════════════════════════════════════════╣
+║ HARDWARE    │ 0bda:2838 (Realtek Semiconductor Corp. RTL2838 DVB-T)
+║ TARGET      │ Teton county (30099) | Judith basin county (30045) | Cascade county (30013) | Chouteau county (30015)
+║ STATION     │ WXJ43 - Great Falls (162.550 MHz)
+╠════════════════════════════════════════════════════════════╣
+║                       ALERT DETAILS                        ║
+╠════════════════════════════════════════════════════════════╣
+║ Type        │ SEVERE THUNDERSTORM WATCH
+║ Intercept   │ 08/27/2026 04:53:45 PM MDT
+║ Duration    │ 89.1s (15s pre-roll)
+║ Decoder     │ EAS: ZCZC-WXR-SVA-030099-030045-030013-030015+0530-2392255-KTFX/NWS-
+║ EOM Message │ Received
+╚════════════════════════════════════════════════════════════╝

@@ -1,0 +1,15 @@
+╔════════════════════════════════════════════════════════════╗
+║                       ALERT CAPTURE                        ║
+╠════════════════════════════════════════════════════════════╣
+║ HARDWARE    │ 0bda:2838 (Realtek Semiconductor Corp. RTL2838 DVB-T)
+║ TARGET      │ Teton county (30099) | Judith basin county (30045) | Cascade county (30013) | Chouteau county (30015)
+║ STATION     │ WXJ43 - Great Falls (162.550 MHz)
+╠════════════════════════════════════════════════════════════╣
+║                       ALERT DETAILS                        ║
+╠════════════════════════════════════════════════════════════╣
+║ Type        │ REQUIRED WEEKLY TEST
+║ Intercept   │ 07/29/2026 11:22:57 AM MDT
+║ Duration    │ 62.2s (15s pre-roll)
+║ Decoder     │ EAS: ZCZC-WXR-RWT-030045-030013-030015-030099+2400-2101723-KTFX/NWS-
+║ EOM Message │ Received
+╚════════════════════════════════════════════════════════════╝
