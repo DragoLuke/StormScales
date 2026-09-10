@@ -27,7 +27,7 @@ StormScales is a Linux toolkit built around the SAME/EAS protocol. It can:
 
 > [!WARNING]
 > The 162.400–162.550 MHz band is allocated to NOAA Weather Radio (NWR), which participates in the Emergency Alert System (EAS). Transmitting on these frequencies without FCC authorization is a federal offense. 
-> Never use the output files of `eas_generator.py` (.wav → .iq) to transmit on real NWR frequencies. The `eas_monitor.sh` and `noaa_nwr_live_listen.sh` scripts are receive-only (RX).
+> Never use the output files of `eas_generator.py` or `eas_capture_converter.py` (.wav → .iq) to transmit on real NWR frequencies. The `eas_monitor.sh` and `noaa_nwr_live_listen.sh` scripts are receive-only (RX).
 
 **False or deceptive EAS transmissions** [47 CFR § 11.45](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-A/part-11/section-11.45): (a) "No person may transmit or cause to transmit the EAS codes or Attention Signal, or a recording or simulation thereof, in any circumstance other than in an actual National, State or Local Area emergency or authorized test of the EAS." The files produced by `eas_generator.py` exist for isolated lab testing and education only. These files are not authorized for broadcast.
 
